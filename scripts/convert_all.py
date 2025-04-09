@@ -5,8 +5,8 @@ from pj import PjDatasetProcessor
 def convert_pan12(xml_folder_train, xml_folder_test, output_csv_train, output_csv_test, max_lines=200):
     # Procesa los archivos XML para el dataset de entrenamiento (train) y prueba (test)
     print("Procesando archivos XML para el dataset de PAN12...")
-    parse_xml_to_csv(xml_folder_train, output_csv_train, max_lines)
-    parse_xml_to_csv(xml_folder_test, output_csv_test, max_lines)
+    parse_xml_to_csv(xml_folder_train, output_csv_train)
+    parse_xml_to_csv(xml_folder_test, output_csv_test)
 
 def convert_pj(folder_path, output_csv):
     # Procesa los archivos .txt para el dataset de PJ
@@ -24,7 +24,7 @@ if __name__ == "__main__":
     output_csv_pj = './data/processed/pj_dataset.csv'  # Salida CSV para PJ
 
     # Llamar a las funciones de conversión
-    convert_pan12(xml_folder, output_csv_train, output_csv_test)
+    convert_pan12(xml_folder_train, xml_folder_test, output_csv_train, output_csv_test)
     convert_pj(folder_path_pj, output_csv_pj)
 
     print("Conversión completada para todos los datasets.")
