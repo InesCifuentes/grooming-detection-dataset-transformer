@@ -1,0 +1,201 @@
+conversation_id,author,text,timestamp
+affc2df0951b733d14ba92d19d9b7695,0a39f78bcb297ab0ebe8a29c28bfed89,bugmail: [Bug 6978] New: Mark eof-terminated script elements as malformed &lt;http://lists.w3.org/Archives/Public/public-html-bugzilla/2009May/0049.html&gt;,15:24
+affc2df0951b733d14ba92d19d9b7695,60659cfda992013e610f285c46692d28,"Henri, can I ask you a Firefox build question (Windows)?",15:32
+affc2df0951b733d14ba92d19d9b7695,b8810fee2f4a71f849f3f7409546d1d9,"60659cfda992013e610f285c46692d28: sure, but I probably don't know the answer",15:34
+affc2df0951b733d14ba92d19d9b7695,60659cfda992013e610f285c46692d28,"It appears the build runs through, it creates a firefox.exe in dist/bin",15:35
+affc2df0951b733d14ba92d19d9b7695,60659cfda992013e610f285c46692d28,"when I start it, I get my standard install of FF (3.0.10) instead...",15:35
+affc2df0951b733d14ba92d19d9b7695,60659cfda992013e610f285c46692d28,"Same if I make a package, unzip it, and start from there...",15:35
+affc2df0951b733d14ba92d19d9b7695,b8810fee2f4a71f849f3f7409546d1d9,60659cfda992013e610f285c46692d28: do you already have the usual Firefox open?,15:35
+affc2df0951b733d14ba92d19d9b7695,60659cfda992013e610f285c46692d28,Likely,15:35
+affc2df0951b733d14ba92d19d9b7695,60659cfda992013e610f285c46692d28,So do I need to close all instances?,15:36
+affc2df0951b733d14ba92d19d9b7695,60659cfda992013e610f285c46692d28,...other...,15:36
+affc2df0951b733d14ba92d19d9b7695,b8810fee2f4a71f849f3f7409546d1d9,"60659cfda992013e610f285c46692d28: at least with the Linux version, you need to",15:36
+affc2df0951b733d14ba92d19d9b7695,b8810fee2f4a71f849f3f7409546d1d9,"(unless you run a different profile, which may be advisable anyway)",15:36
+affc2df0951b733d14ba92d19d9b7695,60659cfda992013e610f285c46692d28,Good point.,15:36
+affc2df0951b733d14ba92d19d9b7695,60659cfda992013e610f285c46692d28,Will be gone for a moment due to Chatzilla.,15:37
+affc2df0951b733d14ba92d19d9b7695,60659cfda992013e610f285c46692d28,"Henri, that was the problem.",15:38
+affc2df0951b733d14ba92d19d9b7695,b8810fee2f4a71f849f3f7409546d1d9,ok. good that I can guess some windows things from linux behavior,15:40
+affc2df0951b733d14ba92d19d9b7695,edb259c0e0038f38bb200bc20c8cbf7e,"ah yeah, Firefox is annoying with that",15:43
+affc2df0951b733d14ba92d19d9b7695,edb259c0e0038f38bb200bc20c8cbf7e,"60659cfda992013e610f285c46692d28, I was merely citing it because your message made it seem as if you thought there was WG agreement",15:44
+affc2df0951b733d14ba92d19d9b7695,edb259c0e0038f38bb200bc20c8cbf7e,"And I thought there was some treshold criteria for the tracker, but maybe things changed",15:45
+affc2df0951b733d14ba92d19d9b7695,60659cfda992013e610f285c46692d28,We don't need WG agreement to add something to the tracker.,15:48
+affc2df0951b733d14ba92d19d9b7695,edb259c0e0038f38bb200bc20c8cbf7e,That's not what I'm saying,15:49
+affc2df0951b733d14ba92d19d9b7695,60659cfda992013e610f285c46692d28,"In particular, if the author has an outstanding action (ACTION-123) to reply, due 8 days ago.",15:49
+affc2df0951b733d14ba92d19d9b7695,edb259c0e0038f38bb200bc20c8cbf7e,Ian?,15:49
+affc2df0951b733d14ba92d19d9b7695,60659cfda992013e610f285c46692d28,Yes.,15:50
+affc2df0951b733d14ba92d19d9b7695,edb259c0e0038f38bb200bc20c8cbf7e,Since when can non-telcon participants be assigned action items?,15:50
+affc2df0951b733d14ba92d19d9b7695,60659cfda992013e610f285c46692d28,What does this have to do with the telco?,15:50
+affc2df0951b733d14ba92d19d9b7695,60659cfda992013e610f285c46692d28,http://www.w3.org/html/wg/tracker/actions/123,15:50
+affc2df0951b733d14ba92d19d9b7695,0a39f78bcb297ab0ebe8a29c28bfed89,Title: ACTION-123 - HTML Weekly Tracker (at www.w3.org),15:50
+affc2df0951b733d14ba92d19d9b7695,edb259c0e0038f38bb200bc20c8cbf7e,"Let me state it differently, did he agree to taking that action item?",15:50
+affc2df0951b733d14ba92d19d9b7695,edb259c0e0038f38bb200bc20c8cbf7e,It's against W3C protocol to assign action items to people who did not agree to taking them.,15:50
+affc2df0951b733d14ba92d19d9b7695,60659cfda992013e610f285c46692d28,"I don't know, nor do I think he needs to.",15:51
+affc2df0951b733d14ba92d19d9b7695,edb259c0e0038f38bb200bc20c8cbf7e,Based on experience with the W3C I'd say he has to agree,15:51
+affc2df0951b733d14ba92d19d9b7695,60659cfda992013e610f285c46692d28,"But it is ok to add non-chartered stuff to a spec, and then not to reply when asked for th reasons?",15:52
+affc2df0951b733d14ba92d19d9b7695,b8810fee2f4a71f849f3f7409546d1d9,my 'agreement' to the tracker item assigned to me was that I thought it was against protocol to refuse when Zakim picked me as &quot;victim&quot;,15:54
+affc2df0951b733d14ba92d19d9b7695,60659cfda992013e610f285c46692d28,"Ignoring process for a moment (it wasn't me who added the action...)... But if the WG asks the editor why he did something, I think it deserves an answer.",15:55
+affc2df0951b733d14ba92d19d9b7695,edb259c0e0038f38bb200bc20c8cbf7e,You raised the issue two weeks ago. Things take a bit of time,15:56
+affc2df0951b733d14ba92d19d9b7695,60659cfda992013e610f285c46692d28,"If Ian has the time to add these four chapters (vcard, icalendar, bibtext, atom), he probably also has time to explain why.",15:57
+affc2df0951b733d14ba92d19d9b7695,edb259c0e0038f38bb200bc20c8cbf7e,If you catch him on IRC you can probably ask if he can prioritize it somewhat if a timely response is important to you,15:57
+affc2df0951b733d14ba92d19d9b7695,60659cfda992013e610f285c46692d28,I think the fact that there's an overdue action on him should be sufficient information that the WG wants feedback.,15:58
+affc2df0951b733d14ba92d19d9b7695,edb259c0e0038f38bb200bc20c8cbf7e,Seems to me that it followed from the microdata use cases / requirements discussion,15:58
+affc2df0951b733d14ba92d19d9b7695,edb259c0e0038f38bb200bc20c8cbf7e,"60659cfda992013e610f285c46692d28, I doubt he even knows an action item is assigned to him",15:58
+affc2df0951b733d14ba92d19d9b7695,60659cfda992013e610f285c46692d28,so he's both not attending telcos *and* not reading the minutes?,15:59
+affc2df0951b733d14ba92d19d9b7695,b25b6b77a0087ff8385941e5545d32ea,60659cfda992013e610f285c46692d28: FWIW I think the answer to the question is &quot;because it allows the use cases of rich drag and drop / clipboard items&quot; to be fulfilled,15:59
+affc2df0951b733d14ba92d19d9b7695,b25b6b77a0087ff8385941e5545d32ea,Although obviously that is not an offical answer,16:00
+affc2df0951b733d14ba92d19d9b7695,edb259c0e0038f38bb200bc20c8cbf7e,"60659cfda992013e610f285c46692d28, that seems like quite a leap from not knowing he has an action item",16:00
+affc2df0951b733d14ba92d19d9b7695,edb259c0e0038f38bb200bc20c8cbf7e,(In my experience Ian always does action items on time.),16:01
+affc2df0951b733d14ba92d19d9b7695,b25b6b77a0087ff8385941e5545d32ea,"60659cfda992013e610f285c46692d28: And whilst I think it makes sense to consider taking the specific mocrodata bits out of HTML 5, keeping the D&amp;D stuff would make the specs codependant on each other. So I'm not sure you'd gain much",16:02
+affc2df0951b733d14ba92d19d9b7695,b25b6b77a0087ff8385941e5545d32ea,*microdata,16:02
+affc2df0951b733d14ba92d19d9b7695,b25b6b77a0087ff8385941e5545d32ea,(amongst other errors),16:02
+affc2df0951b733d14ba92d19d9b7695,edb259c0e0038f38bb200bc20c8cbf7e,gives up on finding rules on action items,16:06
+de15188e9fd515ed817a0b34546be902,b6fe182274453b707870b16e5d2ad562,back,19:28
+de15188e9fd515ed817a0b34546be902,4a9332d7466b98d11c23e4447b26460a,ok babe,19:28
+de15188e9fd515ed817a0b34546be902,4a9332d7466b98d11c23e4447b26460a,what happend babe,19:28
+de15188e9fd515ed817a0b34546be902,b6fe182274453b707870b16e5d2ad562,dog wanted out n then she took off runnin down the street,19:28
+de15188e9fd515ed817a0b34546be902,4a9332d7466b98d11c23e4447b26460a,oh man i hate that what kinda of god?,19:29
+de15188e9fd515ed817a0b34546be902,b6fe182274453b707870b16e5d2ad562,dashund,19:29
+de15188e9fd515ed817a0b34546be902,4a9332d7466b98d11c23e4447b26460a,ic i have a pitbull hes a sweet heart,19:30
+de15188e9fd515ed817a0b34546be902,b6fe182274453b707870b16e5d2ad562,cool,19:30
+de15188e9fd515ed817a0b34546be902,4a9332d7466b98d11c23e4447b26460a,he thinks his a small dog,19:30
+de15188e9fd515ed817a0b34546be902,b6fe182274453b707870b16e5d2ad562,lol,19:30
+de15188e9fd515ed817a0b34546be902,b6fe182274453b707870b16e5d2ad562,does he like 2 sit n ur lap?,19:30
+de15188e9fd515ed817a0b34546be902,4a9332d7466b98d11c23e4447b26460a,if he had his way he would but he will streach out and take over the couch,19:32
+de15188e9fd515ed817a0b34546be902,b6fe182274453b707870b16e5d2ad562,lol,19:32
+de15188e9fd515ed817a0b34546be902,4a9332d7466b98d11c23e4447b26460a,want to see his baby pics,19:35
+de15188e9fd515ed817a0b34546be902,b6fe182274453b707870b16e5d2ad562,AWWWWW,19:37
+de15188e9fd515ed817a0b34546be902,b6fe182274453b707870b16e5d2ad562,hes SOOOOO cute!!,19:37
+de15188e9fd515ed817a0b34546be902,b6fe182274453b707870b16e5d2ad562,one opened,19:38
+de15188e9fd515ed817a0b34546be902,b6fe182274453b707870b16e5d2ad562,the other 2 didnt,19:38
+de15188e9fd515ed817a0b34546be902,4a9332d7466b98d11c23e4447b26460a,ok,19:39
+de15188e9fd515ed817a0b34546be902,b6fe182274453b707870b16e5d2ad562,hes so tiny,19:41
+de15188e9fd515ed817a0b34546be902,4a9332d7466b98d11c23e4447b26460a,yeah but not any more,19:41
+de15188e9fd515ed817a0b34546be902,b6fe182274453b707870b16e5d2ad562,what ya doin?,20:03
+de15188e9fd515ed817a0b34546be902,4a9332d7466b98d11c23e4447b26460a,woundering where u where and doing baby,20:03
+de15188e9fd515ed817a0b34546be902,b6fe182274453b707870b16e5d2ad562,im here,20:04
+de15188e9fd515ed817a0b34546be902,4a9332d7466b98d11c23e4447b26460a,:) ok,20:04
+de15188e9fd515ed817a0b34546be902,b6fe182274453b707870b16e5d2ad562,>:D<,20:14
+de15188e9fd515ed817a0b34546be902,4a9332d7466b98d11c23e4447b26460a,>:D<;;):-*,20:14
+de15188e9fd515ed817a0b34546be902,4a9332d7466b98d11c23e4447b26460a,you know what baby your sssoooo allsome,20:15
+de15188e9fd515ed817a0b34546be902,b6fe182274453b707870b16e5d2ad562,thanks!,20:16
+de15188e9fd515ed817a0b34546be902,4a9332d7466b98d11c23e4447b26460a,yw,20:16
+de15188e9fd515ed817a0b34546be902,b6fe182274453b707870b16e5d2ad562,did u eat supper yet?,20:37
+de15188e9fd515ed817a0b34546be902,4a9332d7466b98d11c23e4447b26460a,yeah i ordered papjohns pizza and u baby,20:37
+de15188e9fd515ed817a0b34546be902,b6fe182274453b707870b16e5d2ad562,gonna go eat now,20:38
+de15188e9fd515ed817a0b34546be902,b6fe182274453b707870b16e5d2ad562,will u b on in later?,20:38
+de15188e9fd515ed817a0b34546be902,4a9332d7466b98d11c23e4447b26460a,ok babby what u eatting ?,20:38
+de15188e9fd515ed817a0b34546be902,b6fe182274453b707870b16e5d2ad562,chicken,20:38
+de15188e9fd515ed817a0b34546be902,4a9332d7466b98d11c23e4447b26460a,mmm,20:38
+de15188e9fd515ed817a0b34546be902,b6fe182274453b707870b16e5d2ad562,bbl,20:38
+de15188e9fd515ed817a0b34546be902,b6fe182274453b707870b16e5d2ad562,:-*,20:39
+de15188e9fd515ed817a0b34546be902,b6fe182274453b707870b16e5d2ad562,PO,20:39
+de15188e9fd515ed817a0b34546be902,4a9332d7466b98d11c23e4447b26460a,ok,20:39
+de15188e9fd515ed817a0b34546be902,4a9332d7466b98d11c23e4447b26460a,:-*,20:39
+17784c5a093477c1706b1a68cea7c802,713349f3afa2dbe352d2abe4d3f01a12,hello,03:10
+17784c5a093477c1706b1a68cea7c802,fcfda042c76436b97eca32b6c0490d1d,boys are shit,03:10
+17784c5a093477c1706b1a68cea7c802,713349f3afa2dbe352d2abe4d3f01a12,that they are,03:10
+17784c5a093477c1706b1a68cea7c802,fcfda042c76436b97eca32b6c0490d1d,hi,03:10
+17784c5a093477c1706b1a68cea7c802,fcfda042c76436b97eca32b6c0490d1d,sorry,03:10
+17784c5a093477c1706b1a68cea7c802,fcfda042c76436b97eca32b6c0490d1d,i was just angry,03:10
+17784c5a093477c1706b1a68cea7c802,fcfda042c76436b97eca32b6c0490d1d,what,03:10
+17784c5a093477c1706b1a68cea7c802,fcfda042c76436b97eca32b6c0490d1d,?,03:10
+17784c5a093477c1706b1a68cea7c802,713349f3afa2dbe352d2abe4d3f01a12,"its quite alright, i get that way myself on occasion",03:11
+17784c5a093477c1706b1a68cea7c802,fcfda042c76436b97eca32b6c0490d1d,are u a girl,03:11
+17784c5a093477c1706b1a68cea7c802,fcfda042c76436b97eca32b6c0490d1d,?,03:11
+17784c5a093477c1706b1a68cea7c802,fcfda042c76436b97eca32b6c0490d1d,i met a guy a moment ago,03:11
+17784c5a093477c1706b1a68cea7c802,713349f3afa2dbe352d2abe4d3f01a12,yes,03:11
+17784c5a093477c1706b1a68cea7c802,fcfda042c76436b97eca32b6c0490d1d,and she dumped me,03:11
+17784c5a093477c1706b1a68cea7c802,fcfda042c76436b97eca32b6c0490d1d,after i do cybersex with me,03:11
+17784c5a093477c1706b1a68cea7c802,fcfda042c76436b97eca32b6c0490d1d,i am afraid,03:11
+17784c5a093477c1706b1a68cea7c802,713349f3afa2dbe352d2abe4d3f01a12,wait is it a guy or a she?,03:11
+17784c5a093477c1706b1a68cea7c802,fcfda042c76436b97eca32b6c0490d1d,he will do something bad to me,03:12
+17784c5a093477c1706b1a68cea7c802,fcfda042c76436b97eca32b6c0490d1d,i mean,03:12
+17784c5a093477c1706b1a68cea7c802,fcfda042c76436b97eca32b6c0490d1d,after i do cybersex with him,03:12
+17784c5a093477c1706b1a68cea7c802,713349f3afa2dbe352d2abe4d3f01a12,you&apos;ll be fine,03:12
+17784c5a093477c1706b1a68cea7c802,fcfda042c76436b97eca32b6c0490d1d,of course a guy,03:12
+17784c5a093477c1706b1a68cea7c802,fcfda042c76436b97eca32b6c0490d1d,i am a girl,03:12
+17784c5a093477c1706b1a68cea7c802,713349f3afa2dbe352d2abe4d3f01a12,don&apos;t worry,03:12
+17784c5a093477c1706b1a68cea7c802,713349f3afa2dbe352d2abe4d3f01a12,he was just a horny lowlife looking for a good time,03:12
+17784c5a093477c1706b1a68cea7c802,713349f3afa2dbe352d2abe4d3f01a12,he&apos;s not going to do anything,03:13
+17784c5a093477c1706b1a68cea7c802,fcfda042c76436b97eca32b6c0490d1d,in the video,03:13
+17784c5a093477c1706b1a68cea7c802,fcfda042c76436b97eca32b6c0490d1d,i scared if he will record me,03:13
+17784c5a093477c1706b1a68cea7c802,fcfda042c76436b97eca32b6c0490d1d,while i am doing cybersex,03:13
+17784c5a093477c1706b1a68cea7c802,fcfda042c76436b97eca32b6c0490d1d,and put it in internet,03:13
+17784c5a093477c1706b1a68cea7c802,fcfda042c76436b97eca32b6c0490d1d,i am afraid,03:13
+17784c5a093477c1706b1a68cea7c802,fcfda042c76436b97eca32b6c0490d1d,my friends and families will know i am doing that,03:13
+17784c5a093477c1706b1a68cea7c802,713349f3afa2dbe352d2abe4d3f01a12,i don&apos;t think he will,03:13
+17784c5a093477c1706b1a68cea7c802,fcfda042c76436b97eca32b6c0490d1d,coz this is the first time,03:13
+17784c5a093477c1706b1a68cea7c802,fcfda042c76436b97eca32b6c0490d1d,i do that,03:13
+17784c5a093477c1706b1a68cea7c802,fcfda042c76436b97eca32b6c0490d1d,why do u think so?,03:13
+17784c5a093477c1706b1a68cea7c802,713349f3afa2dbe352d2abe4d3f01a12,"trust me relax, you&apos;ll be fine",03:13
+17784c5a093477c1706b1a68cea7c802,713349f3afa2dbe352d2abe4d3f01a12,because he was just horny and stupid and you did what he wanted,03:14
+17784c5a093477c1706b1a68cea7c802,713349f3afa2dbe352d2abe4d3f01a12,that&apos;s that,03:14
+17784c5a093477c1706b1a68cea7c802,713349f3afa2dbe352d2abe4d3f01a12,it wasn&apos;t a smart decision on your part but i doubt it will come back to haunt you,03:14
+17784c5a093477c1706b1a68cea7c802,fcfda042c76436b97eca32b6c0490d1d,what do u mean by coming back to haunt me?,03:15
+17784c5a093477c1706b1a68cea7c802,713349f3afa2dbe352d2abe4d3f01a12,like make your life bady,03:15
+17784c5a093477c1706b1a68cea7c802,713349f3afa2dbe352d2abe4d3f01a12,*bad,03:15
+17784c5a093477c1706b1a68cea7c802,fcfda042c76436b97eca32b6c0490d1d,yeah,03:15
+17784c5a093477c1706b1a68cea7c802,fcfda042c76436b97eca32b6c0490d1d,my life is bad,03:15
+17784c5a093477c1706b1a68cea7c802,fcfda042c76436b97eca32b6c0490d1d,i regret,03:15
+17784c5a093477c1706b1a68cea7c802,fcfda042c76436b97eca32b6c0490d1d,i am scared,03:15
+17784c5a093477c1706b1a68cea7c802,fcfda042c76436b97eca32b6c0490d1d,really scared,03:15
+17784c5a093477c1706b1a68cea7c802,713349f3afa2dbe352d2abe4d3f01a12,don&apos;t its ok,03:15
+17784c5a093477c1706b1a68cea7c802,fcfda042c76436b97eca32b6c0490d1d,how old are u?,03:15
+17784c5a093477c1706b1a68cea7c802,713349f3afa2dbe352d2abe4d3f01a12,just don&apos;t do it again,03:15
+17784c5a093477c1706b1a68cea7c802,fcfda042c76436b97eca32b6c0490d1d,yeah,03:15
+17784c5a093477c1706b1a68cea7c802,713349f3afa2dbe352d2abe4d3f01a12,you&apos;ll be fine,03:15
+17784c5a093477c1706b1a68cea7c802,fcfda042c76436b97eca32b6c0490d1d,i wont do it again,03:16
+17784c5a093477c1706b1a68cea7c802,713349f3afa2dbe352d2abe4d3f01a12,good,03:16
+17784c5a093477c1706b1a68cea7c802,713349f3afa2dbe352d2abe4d3f01a12,how old are you?,03:16
+17784c5a093477c1706b1a68cea7c802,fcfda042c76436b97eca32b6c0490d1d,i am 16,03:16
+17784c5a093477c1706b1a68cea7c802,fcfda042c76436b97eca32b6c0490d1d,u?,03:16
+17784c5a093477c1706b1a68cea7c802,fcfda042c76436b97eca32b6c0490d1d,thats why i am so scared,03:16
+17784c5a093477c1706b1a68cea7c802,713349f3afa2dbe352d2abe4d3f01a12,same,03:16
+17784c5a093477c1706b1a68cea7c802,fcfda042c76436b97eca32b6c0490d1d,coz i am so young,03:16
+17784c5a093477c1706b1a68cea7c802,713349f3afa2dbe352d2abe4d3f01a12,where are you from?,03:16
+17784c5a093477c1706b1a68cea7c802,fcfda042c76436b97eca32b6c0490d1d,where do you come from?,03:16
+17784c5a093477c1706b1a68cea7c802,fcfda042c76436b97eca32b6c0490d1d,where do u come from?,03:17
+17784c5a093477c1706b1a68cea7c802,fcfda042c76436b97eca32b6c0490d1d,i am from canada,03:17
+17784c5a093477c1706b1a68cea7c802,fcfda042c76436b97eca32b6c0490d1d,alright,03:17
+17784c5a093477c1706b1a68cea7c802,fcfda042c76436b97eca32b6c0490d1d,i gotta go,03:18
+17784c5a093477c1706b1a68cea7c802,fcfda042c76436b97eca32b6c0490d1d,bye,03:18
+17784c5a093477c1706b1a68cea7c802,fcfda042c76436b97eca32b6c0490d1d,thanks,03:18
+17784c5a093477c1706b1a68cea7c802,fcfda042c76436b97eca32b6c0490d1d,for make me calmer,03:18
+17784c5a093477c1706b1a68cea7c802,fcfda042c76436b97eca32b6c0490d1d,^^,03:18
+d55846cb89c0fbf5e177b0b0d499023e,85a7e70c36ded431d62b528ead109ed5,hi,10:36
+d55846cb89c0fbf5e177b0b0d499023e,9422b8edd736119458948327170302ae,hii,10:36
+d55846cb89c0fbf5e177b0b0d499023e,9422b8edd736119458948327170302ae,hous it going?,10:36
+d55846cb89c0fbf5e177b0b0d499023e,9422b8edd736119458948327170302ae,w r u from ?,10:36
+85f0abac6ef5a2a23814a2ced73b5fb7,bb8b358a10488f1ce25cdeb1df4a842a,hello there,14:11
+85f0abac6ef5a2a23814a2ced73b5fb7,bb8b358a10488f1ce25cdeb1df4a842a,how are ya?,14:11
+85f0abac6ef5a2a23814a2ced73b5fb7,2ded7a428b8b4536d49393c352fe1d1c,hey,14:11
+85f0abac6ef5a2a23814a2ced73b5fb7,bb8b358a10488f1ce25cdeb1df4a842a,"so, where are you from, Stranger",14:11
+80e3c3978ea07f46819f1f945cb04949,a4529d1761aaeada66c6bdd6c93c78ea,heeeeeeeey ;),15:46
+80e3c3978ea07f46819f1f945cb04949,c2f65d32c7388e4febf6b52514ec2e31,merhaba s?trenc?r karde?,15:46
+80e3c3978ea07f46819f1f945cb04949,a4529d1761aaeada66c6bdd6c93c78ea,umm no comment?,15:46
+80e3c3978ea07f46819f1f945cb04949,a4529d1761aaeada66c6bdd6c93c78ea,=),15:46
+15a38614944f5aa8bbb59d4153ecc12a,ee792e8acb278ddd16cc46020c694b0b,hi,09:31
+15a38614944f5aa8bbb59d4153ecc12a,454addae11c0b90c0f36a98b77aa07a6,"19 m usa horny, u?",09:32
+15a38614944f5aa8bbb59d4153ecc12a,ee792e8acb278ddd16cc46020c694b0b,2+2*2,09:32
+15a38614944f5aa8bbb59d4153ecc12a,ee792e8acb278ddd16cc46020c694b0b,2+2*2?,09:32
+15a38614944f5aa8bbb59d4153ecc12a,454addae11c0b90c0f36a98b77aa07a6,6?,09:32
+15a38614944f5aa8bbb59d4153ecc12a,ee792e8acb278ddd16cc46020c694b0b,yay,09:32
+15a38614944f5aa8bbb59d4153ecc12a,ee792e8acb278ddd16cc46020c694b0b,now,09:32
+15a38614944f5aa8bbb59d4153ecc12a,ee792e8acb278ddd16cc46020c694b0b,17%5+19-27/4,09:32
+15a38614944f5aa8bbb59d4153ecc12a,454addae11c0b90c0f36a98b77aa07a6,i got this. witout a calculator too,09:32
+15a38614944f5aa8bbb59d4153ecc12a,454addae11c0b90c0f36a98b77aa07a6,hold on,09:32
+15a38614944f5aa8bbb59d4153ecc12a,ee792e8acb278ddd16cc46020c694b0b,...,09:33
+15a38614944f5aa8bbb59d4153ecc12a,454addae11c0b90c0f36a98b77aa07a6,13.001,09:34
+15a38614944f5aa8bbb59d4153ecc12a,ee792e8acb278ddd16cc46020c694b0b,nope,09:35
+15a38614944f5aa8bbb59d4153ecc12a,454addae11c0b90c0f36a98b77aa07a6,"gah, was i close?",09:35
+15a38614944f5aa8bbb59d4153ecc12a,ee792e8acb278ddd16cc46020c694b0b,17%5 + 19 - 27/4,09:35
+15a38614944f5aa8bbb59d4153ecc12a,ee792e8acb278ddd16cc46020c694b0b,2 + 19 - 6,09:35
+15a38614944f5aa8bbb59d4153ecc12a,454addae11c0b90c0f36a98b77aa07a6,.076 + 19 - 6.75 roght,09:35
+15a38614944f5aa8bbb59d4153ecc12a,ee792e8acb278ddd16cc46020c694b0b,22-6,09:35
+15a38614944f5aa8bbb59d4153ecc12a,ee792e8acb278ddd16cc46020c694b0b,mod.,09:35
+15a38614944f5aa8bbb59d4153ecc12a,ee792e8acb278ddd16cc46020c694b0b,comp programming,09:35
+15a38614944f5aa8bbb59d4153ecc12a,ee792e8acb278ddd16cc46020c694b0b,:P,09:35
+15a38614944f5aa8bbb59d4153ecc12a,ee792e8acb278ddd16cc46020c694b0b,little known,09:35
+15a38614944f5aa8bbb59d4153ecc12a,ee792e8acb278ddd16cc46020c694b0b,but,09:35
+15a38614944f5aa8bbb59d4153ecc12a,ee792e8acb278ddd16cc46020c694b0b,i can believe,09:36
+15a38614944f5aa8bbb59d4153ecc12a,ee792e8acb278ddd16cc46020c694b0b,your not,09:36
