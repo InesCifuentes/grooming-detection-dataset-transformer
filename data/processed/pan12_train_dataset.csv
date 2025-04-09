@@ -199,3 +199,802 @@ ec428ce86dddb80e5ef83c4221ce5cbb,bb21c722adad611b63dfb48ec99e8350,ArtB: ping,18:
 7b8bd13557382d5aa86cf3e3b90acaa5,5059ecaa4fb3ab1183f267bf1613010e,"yes, that's a limitation of resig's current proposal",19:22
 7b8bd13557382d5aa86cf3e3b90acaa5,227a9a17d1db3f8e5c71a150345fb2a6,are we going t have a call?,19:22
 7b8bd13557382d5aa86cf3e3b90acaa5,5059ecaa4fb3ab1183f267bf1613010e,"sure, it'll probably be short",19:22
+7b8bd13557382d5aa86cf3e3b90acaa5,227a9a17d1db3f8e5c71a150345fb2a6,ok,19:23
+7b8bd13557382d5aa86cf3e3b90acaa5,227a9a17d1db3f8e5c71a150345fb2a6,"22813b6f9b851d152e2f2d99116de592, start telcon",19:23
+7b8bd13557382d5aa86cf3e3b90acaa5,22813b6f9b851d152e2f2d99116de592,is preparing a teleconference,19:23
+7b8bd13557382d5aa86cf3e3b90acaa5,4e63bbbffbcaf12608512401eaf11240,logging to http://www.w3.org/2011/01/26-webapps-irc,19:23
+7b8bd13557382d5aa86cf3e3b90acaa5,22813b6f9b851d152e2f2d99116de592,"4e63bbbffbcaf12608512401eaf11240, make logs public",19:23
+7b8bd13557382d5aa86cf3e3b90acaa5,4e63bbbffbcaf12608512401eaf11240,"I have made the request, 22813b6f9b851d152e2f2d99116de592",19:23
+7b8bd13557382d5aa86cf3e3b90acaa5,22813b6f9b851d152e2f2d99116de592,"17f9b78129866dff3cbd228a8d985fbf, this will be DOM3",19:23
+7b8bd13557382d5aa86cf3e3b90acaa5,17f9b78129866dff3cbd228a8d985fbf,"ok, 22813b6f9b851d152e2f2d99116de592; I see IA_WebApps(DOM3)2:00PM scheduled to start in 40 minutes",19:23
+7b8bd13557382d5aa86cf3e3b90acaa5,22813b6f9b851d152e2f2d99116de592,Meeting: Web Applications Working Group Teleconference,19:23
+7b8bd13557382d5aa86cf3e3b90acaa5,22813b6f9b851d152e2f2d99116de592,Date: 26 January 2011,19:23
+7b8bd13557382d5aa86cf3e3b90acaa5,227a9a17d1db3f8e5c71a150345fb2a6,"17f9b78129866dff3cbd228a8d985fbf, room for 3?",19:23
+7b8bd13557382d5aa86cf3e3b90acaa5,17f9b78129866dff3cbd228a8d985fbf,"ok, 227a9a17d1db3f8e5c71a150345fb2a6; conference Team_(webapps)18:20Z scheduled with code 26631 (CONF1) for 60 minutes until 1920Z",19:23
+7b8bd13557382d5aa86cf3e3b90acaa5,0c8dce20967cf80665e60051b8ab2d3c,"5059ecaa4fb3ab1183f267bf1613010e: FYI, the reason for the possible change in wheel events is because Win7 supports &quot;high resolution&quot; scrolling",19:23
+7b8bd13557382d5aa86cf3e3b90acaa5,227a9a17d1db3f8e5c71a150345fb2a6,"17f9b78129866dff3cbd228a8d985fbf: call, 227a9a17d1db3f8e5c71a150345fb2a6",19:24
+7b8bd13557382d5aa86cf3e3b90acaa5,0c8dce20967cf80665e60051b8ab2d3c,"and what Windows gives to UA, doesn't exactly map to pixels",19:24
+7b8bd13557382d5aa86cf3e3b90acaa5,0c8dce20967cf80665e60051b8ab2d3c,...I've been told,19:24
+7b8bd13557382d5aa86cf3e3b90acaa5,227a9a17d1db3f8e5c71a150345fb2a6,"zakim, call 227a9a17d1db3f8e5c71a150345fb2a6",19:24
+7b8bd13557382d5aa86cf3e3b90acaa5,17f9b78129866dff3cbd228a8d985fbf,"ok, 227a9a17d1db3f8e5c71a150345fb2a6; the call is being made",19:24
+7b8bd13557382d5aa86cf3e3b90acaa5,17f9b78129866dff3cbd228a8d985fbf,Team_(webapps)18:20Z has now started,19:24
+7b8bd13557382d5aa86cf3e3b90acaa5,17f9b78129866dff3cbd228a8d985fbf,+Shepazu,19:24
+7b8bd13557382d5aa86cf3e3b90acaa5,17f9b78129866dff3cbd228a8d985fbf,+[Microsoft],19:24
+7b8bd13557382d5aa86cf3e3b90acaa5,17f9b78129866dff3cbd228a8d985fbf,+[IPcaller],19:25
+7b8bd13557382d5aa86cf3e3b90acaa5,0c8dce20967cf80665e60051b8ab2d3c,"17f9b78129866dff3cbd228a8d985fbf, [IPcaller] is Olli_Pettay",19:25
+7b8bd13557382d5aa86cf3e3b90acaa5,17f9b78129866dff3cbd228a8d985fbf,+Olli_Pettay; got it,19:25
+7b8bd13557382d5aa86cf3e3b90acaa5,227a9a17d1db3f8e5c71a150345fb2a6,http://dvcs.w3.org/hg/webevents/raw-file/tip/touchevents.html,19:27
+7b8bd13557382d5aa86cf3e3b90acaa5,227a9a17d1db3f8e5c71a150345fb2a6,scribenick: 5059ecaa4fb3ab1183f267bf1613010e,19:38
+7b8bd13557382d5aa86cf3e3b90acaa5,5059ecaa4fb3ab1183f267bf1613010e,0c8dce20967cf80665e60051b8ab2d3c:  the wheel delta should be double or float,19:39
+7b8bd13557382d5aa86cf3e3b90acaa5,5059ecaa4fb3ab1183f267bf1613010e,travis: for fractional pages/lines,19:40
+7b8bd13557382d5aa86cf3e3b90acaa5,5059ecaa4fb3ab1183f267bf1613010e,"travis: float would be better, doubles are a bit big",19:40
+7b8bd13557382d5aa86cf3e3b90acaa5,5059ecaa4fb3ab1183f267bf1613010e,5059ecaa4fb3ab1183f267bf1613010e: agreed,19:41
+7b8bd13557382d5aa86cf3e3b90acaa5,5059ecaa4fb3ab1183f267bf1613010e,0c8dce20967cf80665e60051b8ab2d3c:  float is fine,19:41
+7b8bd13557382d5aa86cf3e3b90acaa5,5059ecaa4fb3ab1183f267bf1613010e,"RESOLUTION: change deltaX, deltaY, deltaZ to float for WheelEvent",19:43
+7b8bd13557382d5aa86cf3e3b90acaa5,5059ecaa4fb3ab1183f267bf1613010e,"227a9a17d1db3f8e5c71a150345fb2a6:  ok, done",19:44
+7b8bd13557382d5aa86cf3e3b90acaa5,5059ecaa4fb3ab1183f267bf1613010e,"0c8dce20967cf80665e60051b8ab2d3c:  for mutation events replacement, jresig's proposal doesn't handle the most important event DOMCharacterDataModified",19:44
+7b8bd13557382d5aa86cf3e3b90acaa5,5059ecaa4fb3ab1183f267bf1613010e,topic: mutation events replacement,19:44
+7b8bd13557382d5aa86cf3e3b90acaa5,5059ecaa4fb3ab1183f267bf1613010e,"0c8dce20967cf80665e60051b8ab2d3c:  for mutation events replacement, jresig's proposal doesn't handle the most important event DOMCharacterDataModified",19:44
+7b8bd13557382d5aa86cf3e3b90acaa5,227a9a17d1db3f8e5c71a150345fb2a6,"s/zakim, call 227a9a17d1db3f8e5c71a150345fb2a6/Topic: wheel events/",19:44
+7b8bd13557382d5aa86cf3e3b90acaa5,5059ecaa4fb3ab1183f267bf1613010e,"jross: agreed, it's a shortfall of his proposal....but I think his proposal could be improved to support it",19:45
+7b8bd13557382d5aa86cf3e3b90acaa5,227a9a17d1db3f8e5c71a150345fb2a6,http://www.w3.org/2008/webapps/wiki/Selector-based_Mutation_Events,19:47
+7b8bd13557382d5aa86cf3e3b90acaa5,227a9a17d1db3f8e5c71a150345fb2a6,http://www.w3.org/2008/webapps/wiki/MutationReplacement,19:48
+7b8bd13557382d5aa86cf3e3b90acaa5,5059ecaa4fb3ab1183f267bf1613010e,5059ecaa4fb3ab1183f267bf1613010e: doesn't have resig's proposal on there,19:48
+7b8bd13557382d5aa86cf3e3b90acaa5,5059ecaa4fb3ab1183f267bf1613010e,227a9a17d1db3f8e5c71a150345fb2a6: we should add that,19:48
+7b8bd13557382d5aa86cf3e3b90acaa5,0c8dce20967cf80665e60051b8ab2d3c,https://github.com/jeresig/nodelist,19:51
+7b8bd13557382d5aa86cf3e3b90acaa5,5059ecaa4fb3ab1183f267bf1613010e,0c8dce20967cf80665e60051b8ab2d3c:  we should all read these proposals and talk about this next week,19:55
+7b8bd13557382d5aa86cf3e3b90acaa5,5059ecaa4fb3ab1183f267bf1613010e,"227a9a17d1db3f8e5c71a150345fb2a6: this is not really dom 3 events, so we should move forward with a replacement but perhaps in a different conf",19:56
+7b8bd13557382d5aa86cf3e3b90acaa5,5059ecaa4fb3ab1183f267bf1613010e,5059ecaa4fb3ab1183f267bf1613010e: i'll send out mail to get the conversation started,19:56
+7b8bd13557382d5aa86cf3e3b90acaa5,5059ecaa4fb3ab1183f267bf1613010e,topics: dom 3 events issues,19:59
+7b8bd13557382d5aa86cf3e3b90acaa5,5059ecaa4fb3ab1183f267bf1613010e,topic: dom 3 events issues,19:59
+7b8bd13557382d5aa86cf3e3b90acaa5,227a9a17d1db3f8e5c71a150345fb2a6,ISSUE-121?,19:59
+7b8bd13557382d5aa86cf3e3b90acaa5,22813b6f9b851d152e2f2d99116de592,getting information on ISSUE-121,19:59
+7b8bd13557382d5aa86cf3e3b90acaa5,22813b6f9b851d152e2f2d99116de592,ISSUE-121 -- Consider generalizing the 'textInput' event to cover all user-initiated changes -- open,19:59
+7b8bd13557382d5aa86cf3e3b90acaa5,22813b6f9b851d152e2f2d99116de592,http://www.w3.org/2008/webapps/track/issues/121,19:59
+7b8bd13557382d5aa86cf3e3b90acaa5,227a9a17d1db3f8e5c71a150345fb2a6,http://www.w3.org/2008/webapps/track/products/2,19:59
+7b8bd13557382d5aa86cf3e3b90acaa5,5059ecaa4fb3ab1183f267bf1613010e,5059ecaa4fb3ab1183f267bf1613010e: i'll mail out the updates we should make to the issues,19:59
+7b8bd13557382d5aa86cf3e3b90acaa5,227a9a17d1db3f8e5c71a150345fb2a6,ISSUE-122?,20:00
+7b8bd13557382d5aa86cf3e3b90acaa5,22813b6f9b851d152e2f2d99116de592,getting information on ISSUE-122,20:00
+7b8bd13557382d5aa86cf3e3b90acaa5,22813b6f9b851d152e2f2d99116de592,ISSUE-122 -- Consider adding 'mousewheel' again -- open,20:00
+7b8bd13557382d5aa86cf3e3b90acaa5,22813b6f9b851d152e2f2d99116de592,http://www.w3.org/2008/webapps/track/issues/122,20:00
+7b8bd13557382d5aa86cf3e3b90acaa5,5059ecaa4fb3ab1183f267bf1613010e,227a9a17d1db3f8e5c71a150345fb2a6: does anyone want to add mousewheel again?,20:01
+7b8bd13557382d5aa86cf3e3b90acaa5,5059ecaa4fb3ab1183f267bf1613010e,5059ecaa4fb3ab1183f267bf1613010e: no,20:01
+7b8bd13557382d5aa86cf3e3b90acaa5,5059ecaa4fb3ab1183f267bf1613010e,0c8dce20967cf80665e60051b8ab2d3c: no,20:01
+7b8bd13557382d5aa86cf3e3b90acaa5,5059ecaa4fb3ab1183f267bf1613010e,RESOLUTION:  we will not add mousewheel back,20:01
+3c517e43554b6431f932acc138eed57e,505166bca797ceaa203e245667d56b34,hi,18:11
+3c517e43554b6431f932acc138eed57e,505166bca797ceaa203e245667d56b34,Aujourd&apos;hui  je demande l&apos;autorisation de mes parents.,18:11
+3c517e43554b6431f932acc138eed57e,4b66cb4831680c47cc6b66060baff894,hey,18:11
+bbf1d909f2a37738a9549ff301144475,446ce72233c0f1fcc8eebe77011a0a00,Im a 17 F Lesbian. Im looking for girls only,22:51
+bbf1d909f2a37738a9549ff301144475,62d868fd2a3d58cbf6f5587c8182e8fa,joe?,22:51
+bbf1d909f2a37738a9549ff301144475,62d868fd2a3d58cbf6f5587c8182e8fa,is your name anna?,22:51
+bbf1d909f2a37738a9549ff301144475,446ce72233c0f1fcc8eebe77011a0a00,"yea, why?",22:52
+bbf1d909f2a37738a9549ff301144475,62d868fd2a3d58cbf6f5587c8182e8fa,ZOMFG,22:52
+bbf1d909f2a37738a9549ff301144475,62d868fd2a3d58cbf6f5587c8182e8fa,I CAN&apos;T BELIEVE THIS!,22:52
+bbf1d909f2a37738a9549ff301144475,62d868fd2a3d58cbf6f5587c8182e8fa,THIS CAN NOT BE TRUE,22:52
+bbf1d909f2a37738a9549ff301144475,62d868fd2a3d58cbf6f5587c8182e8fa,look,22:52
+bbf1d909f2a37738a9549ff301144475,446ce72233c0f1fcc8eebe77011a0a00,why?,22:52
+bbf1d909f2a37738a9549ff301144475,62d868fd2a3d58cbf6f5587c8182e8fa,anna,22:52
+bbf1d909f2a37738a9549ff301144475,62d868fd2a3d58cbf6f5587c8182e8fa,"me , sydney and joe are looking for you",22:52
+bbf1d909f2a37738a9549ff301144475,62d868fd2a3d58cbf6f5587c8182e8fa,joe loves you and is desperate to find you,22:52
+bbf1d909f2a37738a9549ff301144475,62d868fd2a3d58cbf6f5587c8182e8fa,i know you&apos;re looking for sydney,22:52
+bbf1d909f2a37738a9549ff301144475,62d868fd2a3d58cbf6f5587c8182e8fa,but you hafta find joe,22:52
+bbf1d909f2a37738a9549ff301144475,446ce72233c0f1fcc8eebe77011a0a00,but joe is kinda mean,22:53
+bbf1d909f2a37738a9549ff301144475,62d868fd2a3d58cbf6f5587c8182e8fa,cuz sydney os trying to fid him in order to help him find you,22:53
+bbf1d909f2a37738a9549ff301144475,62d868fd2a3d58cbf6f5587c8182e8fa,"i know, he is regreting all that he did",22:53
+bbf1d909f2a37738a9549ff301144475,446ce72233c0f1fcc8eebe77011a0a00,will he change?,22:53
+bbf1d909f2a37738a9549ff301144475,62d868fd2a3d58cbf6f5587c8182e8fa,he is another person now,22:53
+bbf1d909f2a37738a9549ff301144475,62d868fd2a3d58cbf6f5587c8182e8fa,he is desperate,22:53
+bbf1d909f2a37738a9549ff301144475,62d868fd2a3d58cbf6f5587c8182e8fa,he alredy did,22:53
+bbf1d909f2a37738a9549ff301144475,62d868fd2a3d58cbf6f5587c8182e8fa,you,22:53
+bbf1d909f2a37738a9549ff301144475,446ce72233c0f1fcc8eebe77011a0a00,what he did was pretty bad,22:53
+bbf1d909f2a37738a9549ff301144475,62d868fd2a3d58cbf6f5587c8182e8fa,have,22:53
+bbf1d909f2a37738a9549ff301144475,62d868fd2a3d58cbf6f5587c8182e8fa,to,22:53
+bbf1d909f2a37738a9549ff301144475,62d868fd2a3d58cbf6f5587c8182e8fa,him,22:53
+bbf1d909f2a37738a9549ff301144475,62d868fd2a3d58cbf6f5587c8182e8fa,find,22:53
+bbf1d909f2a37738a9549ff301144475,62d868fd2a3d58cbf6f5587c8182e8fa,i know...,22:54
+bbf1d909f2a37738a9549ff301144475,62d868fd2a3d58cbf6f5587c8182e8fa,he is regreting it from the deepest part of his heart,22:54
+bbf1d909f2a37738a9549ff301144475,62d868fd2a3d58cbf6f5587c8182e8fa,he almost killed himself because of you,22:54
+bbf1d909f2a37738a9549ff301144475,446ce72233c0f1fcc8eebe77011a0a00,"But can he change, I cant see him doing that",22:54
+bbf1d909f2a37738a9549ff301144475,446ce72233c0f1fcc8eebe77011a0a00,really???,22:54
+bbf1d909f2a37738a9549ff301144475,62d868fd2a3d58cbf6f5587c8182e8fa,but eddie (he&apos;s in vocation now) stoped him,22:54
+bbf1d909f2a37738a9549ff301144475,62d868fd2a3d58cbf6f5587c8182e8fa,YEAH!],22:54
+bbf1d909f2a37738a9549ff301144475,62d868fd2a3d58cbf6f5587c8182e8fa,he loves you,22:55
+bbf1d909f2a37738a9549ff301144475,446ce72233c0f1fcc8eebe77011a0a00,jeez youcan always count on eddie,22:55
+bbf1d909f2a37738a9549ff301144475,446ce72233c0f1fcc8eebe77011a0a00,well tell him to tell me,22:55
+bbf1d909f2a37738a9549ff301144475,62d868fd2a3d58cbf6f5587c8182e8fa,tell who to tell you what?,22:55
+bbf1d909f2a37738a9549ff301144475,446ce72233c0f1fcc8eebe77011a0a00,who do you think?,22:55
+bbf1d909f2a37738a9549ff301144475,446ce72233c0f1fcc8eebe77011a0a00,JOE,22:55
+bbf1d909f2a37738a9549ff301144475,62d868fd2a3d58cbf6f5587c8182e8fa,joe?,22:55
+bbf1d909f2a37738a9549ff301144475,62d868fd2a3d58cbf6f5587c8182e8fa,lol,22:55
+bbf1d909f2a37738a9549ff301144475,62d868fd2a3d58cbf6f5587c8182e8fa,BUT HE IS TRYING TO DO IT!,22:56
+bbf1d909f2a37738a9549ff301144475,62d868fd2a3d58cbf6f5587c8182e8fa,HE&apos;S LOOKING FOR YOU!,22:56
+bbf1d909f2a37738a9549ff301144475,446ce72233c0f1fcc8eebe77011a0a00,If we can talk face to face Ill be able to see hes really changed,22:56
+bbf1d909f2a37738a9549ff301144475,62d868fd2a3d58cbf6f5587c8182e8fa,okay,22:56
+bbf1d909f2a37738a9549ff301144475,62d868fd2a3d58cbf6f5587c8182e8fa,but he javes to find you first D:,22:56
+bbf1d909f2a37738a9549ff301144475,62d868fd2a3d58cbf6f5587c8182e8fa,in order to talk face to face with you,22:56
+bbf1d909f2a37738a9549ff301144475,446ce72233c0f1fcc8eebe77011a0a00,yea,22:57
+bbf1d909f2a37738a9549ff301144475,446ce72233c0f1fcc8eebe77011a0a00,but im not saying yes,22:57
+bbf1d909f2a37738a9549ff301144475,446ce72233c0f1fcc8eebe77011a0a00,its hard to regain trust,22:57
+bbf1d909f2a37738a9549ff301144475,62d868fd2a3d58cbf6f5587c8182e8fa,....does that mean you don&apos;t want to see him?,22:57
+bbf1d909f2a37738a9549ff301144475,446ce72233c0f1fcc8eebe77011a0a00,IDK,22:57
+bbf1d909f2a37738a9549ff301144475,62d868fd2a3d58cbf6f5587c8182e8fa,"believe me, he changed",22:57
+bbf1d909f2a37738a9549ff301144475,62d868fd2a3d58cbf6f5587c8182e8fa,"IM AXL, YOU KNOW THAT IF I SAY SOMETHING , I MEAN IT!",22:58
+bbf1d909f2a37738a9549ff301144475,62d868fd2a3d58cbf6f5587c8182e8fa,he,22:58
+bbf1d909f2a37738a9549ff301144475,62d868fd2a3d58cbf6f5587c8182e8fa,changed...,22:58
+bbf1d909f2a37738a9549ff301144475,446ce72233c0f1fcc8eebe77011a0a00,"Well we need to rebuild trust, so he needs to talk to me",22:58
+bbf1d909f2a37738a9549ff301144475,62d868fd2a3d58cbf6f5587c8182e8fa,IN ORDER TO TALK TO YOU HE NEEDS TO FIND YOU!,22:58
+bbf1d909f2a37738a9549ff301144475,446ce72233c0f1fcc8eebe77011a0a00,"listen I got to go, this is all too much for me right now",22:58
+bbf1d909f2a37738a9549ff301144475,62d868fd2a3d58cbf6f5587c8182e8fa,NO,22:59
+bbf1d909f2a37738a9549ff301144475,62d868fd2a3d58cbf6f5587c8182e8fa,WAIT,22:59
+dd6f7c7ef644abca600d28b5afd8c191,232512572096a4d8680305f759bef6c5,so is anyone alive here?,01:24
+dd6f7c7ef644abca600d28b5afd8c191,38e6faf7dfe6481392abfcf94781a567,burp,01:28
+dd6f7c7ef644abca600d28b5afd8c191,31cf935e8fa5e0cbf72107ef6437bf94,lintlock: not me,01:29
+dd6f7c7ef644abca600d28b5afd8c191,38e6faf7dfe6481392abfcf94781a567,"i got apache compield with mod _sll and most toher modules, just compiled mkd jk against it with aspx, and put all that junk in a script, have tomcat 5517 and jdk 1508 installed, got env varibales going, im almost ready",01:29
+dd6f7c7ef644abca600d28b5afd8c191,31cf935e8fa5e0cbf72107ef6437bf94,how does it going?,01:34
+dd6f7c7ef644abca600d28b5afd8c191,232512572096a4d8680305f759bef6c5,wish i could just goto sleep,01:34
+dd6f7c7ef644abca600d28b5afd8c191,31cf935e8fa5e0cbf72107ef6437bf94,why not,01:35
+dd6f7c7ef644abca600d28b5afd8c191,232512572096a4d8680305f759bef6c5,school,01:52
+dd6f7c7ef644abca600d28b5afd8c191,232512572096a4d8680305f759bef6c5,i dont know if i should stay and pretend to goto a study session,01:52
+dd6f7c7ef644abca600d28b5afd8c191,232512572096a4d8680305f759bef6c5,or go home,01:52
+dd6f7c7ef644abca600d28b5afd8c191,871823fa47b3336b34ddcbaf94d58373,could some one give me a hand on a tomcat+apache issue that I'm having ?,01:52
+dd6f7c7ef644abca600d28b5afd8c191,871823fa47b3336b34ddcbaf94d58373,"I followed these instruction on setting it up <a href=""http://www.meritonlinesystems.com/docs/apache_tomcat_redhat.html"">http://www.meritonlinesystems.com/docs/apache_tomcat_redhat.html</a>",01:52
+dd6f7c7ef644abca600d28b5afd8c191,871823fa47b3336b34ddcbaf94d58373,for some reason I get not much on my logs and also when I do get something is just a GET /servlet/HelloWorld HTTP/1.1&quot; 400,01:53
+dd6f7c7ef644abca600d28b5afd8c191,31cf935e8fa5e0cbf72107ef6437bf94,and what exactly is the problem?,01:56
+dd6f7c7ef644abca600d28b5afd8c191,871823fa47b3336b34ddcbaf94d58373,nothing gets loaded,01:59
+dd6f7c7ef644abca600d28b5afd8c191,871823fa47b3336b34ddcbaf94d58373,all I get is a blank page,02:00
+dd6f7c7ef644abca600d28b5afd8c191,871823fa47b3336b34ddcbaf94d58373,and my tomcat logs show nothing,02:00
+dd6f7c7ef644abca600d28b5afd8c191,31cf935e8fa5e0cbf72107ef6437bf94,what happens if you call the HelloWorld servlet directly,02:09
+dd6f7c7ef644abca600d28b5afd8c191,31cf935e8fa5e0cbf72107ef6437bf94,i mean directly in tomcat,02:10
+dd6f7c7ef644abca600d28b5afd8c191,871823fa47b3336b34ddcbaf94d58373,I got change the configuration to do so,02:14
+dd6f7c7ef644abca600d28b5afd8c191,871823fa47b3336b34ddcbaf94d58373,but I know when I first installed tomcat and had it running standalone on 8080 all the servlets and jsp examples worked,02:14
+dd6f7c7ef644abca600d28b5afd8c191,31cf935e8fa5e0cbf72107ef6437bf94,why did you removed port 8080 either way?,02:14
+dd6f7c7ef644abca600d28b5afd8c191,871823fa47b3336b34ddcbaf94d58373,I just another sample.war from apache and that doesn't work either i get the same 400 error,02:15
+dd6f7c7ef644abca600d28b5afd8c191,31cf935e8fa5e0cbf72107ef6437bf94,and you tried the same war file with a standalone tomcat?,02:15
+dd6f7c7ef644abca600d28b5afd8c191,871823fa47b3336b34ddcbaf94d58373,dvayanu: the instructions I was following made me create a new server.xml file,02:15
+dd6f7c7ef644abca600d28b5afd8c191,871823fa47b3336b34ddcbaf94d58373,no i will now,02:15
+dd6f7c7ef644abca600d28b5afd8c191,31cf935e8fa5e0cbf72107ef6437bf94,oh in understand,02:16
+dd6f7c7ef644abca600d28b5afd8c191,871823fa47b3336b34ddcbaf94d58373,yeah it works fine on the 8080,02:22
+dd6f7c7ef644abca600d28b5afd8c191,871823fa47b3336b34ddcbaf94d58373,now I got redo my apache configs for the virtual server that is using mod_jk,02:22
+dd6f7c7ef644abca600d28b5afd8c191,31cf935e8fa5e0cbf72107ef6437bf94,but keep both,02:23
+dd6f7c7ef644abca600d28b5afd8c191,871823fa47b3336b34ddcbaf94d58373,you mean 8005 8009 and 8080,02:24
+dd6f7c7ef644abca600d28b5afd8c191,31cf935e8fa5e0cbf72107ef6437bf94,i mean keep port 8080 open,02:24
+dd6f7c7ef644abca600d28b5afd8c191,871823fa47b3336b34ddcbaf94d58373,ok,02:24
+dd6f7c7ef644abca600d28b5afd8c191,31cf935e8fa5e0cbf72107ef6437bf94,"btw, apache2?",02:25
+dd6f7c7ef644abca600d28b5afd8c191,871823fa47b3336b34ddcbaf94d58373,yes,02:26
+dd6f7c7ef644abca600d28b5afd8c191,871823fa47b3336b34ddcbaf94d58373,"btw when I go to localhost:8080 where is that directed to , do you know ? I want to add that same location to my vhost documentroot",02:27
+dd6f7c7ef644abca600d28b5afd8c191,31cf935e8fa5e0cbf72107ef6437bf94,hmm /var/log/apache2/error.log is empty too?,02:27
+dd6f7c7ef644abca600d28b5afd8c191,871823fa47b3336b34ddcbaf94d58373,yeah,02:27
+dd6f7c7ef644abca600d28b5afd8c191,31cf935e8fa5e0cbf72107ef6437bf94,"btorch: i'm not an expert like jasonb, but i pasted you parts of my apache2.conf",02:29
+dd6f7c7ef644abca600d28b5afd8c191,31cf935e8fa5e0cbf72107ef6437bf94,"<a href=""http://rafb.net/paste/results/LZxvFV98.html"">http://rafb.net/paste/results/LZxvFV98.html</a>",02:29
+dd6f7c7ef644abca600d28b5afd8c191,31cf935e8fa5e0cbf72107ef6437bf94,that works,02:29
+dd6f7c7ef644abca600d28b5afd8c191,871823fa47b3336b34ddcbaf94d58373,thank you,02:30
+dd6f7c7ef644abca600d28b5afd8c191,31cf935e8fa5e0cbf72107ef6437bf94,i'm not so sure it's 100% correct,02:30
+dd6f7c7ef644abca600d28b5afd8c191,871823fa47b3336b34ddcbaf94d58373,alright I made some changes on my apache,02:31
+dd6f7c7ef644abca600d28b5afd8c191,871823fa47b3336b34ddcbaf94d58373,got the DocRoot to be the same as the catalina root,02:31
+dd6f7c7ef644abca600d28b5afd8c191,871823fa47b3336b34ddcbaf94d58373,it kind of works !,02:36
+dd6f7c7ef644abca600d28b5afd8c191,31cf935e8fa5e0cbf72107ef6437bf94,cool,02:36
+dd6f7c7ef644abca600d28b5afd8c191,871823fa47b3336b34ddcbaf94d58373,the only thing that does not seem to work is calling by servlets,02:37
+dd6f7c7ef644abca600d28b5afd8c191,871823fa47b3336b34ddcbaf94d58373,hello.jsp works,02:37
+dd6f7c7ef644abca600d28b5afd8c191,31cf935e8fa5e0cbf72107ef6437bf94,do you have invoker enabled?,02:37
+dd6f7c7ef644abca600d28b5afd8c191,871823fa47b3336b34ddcbaf94d58373,what is that ?,02:38
+dd6f7c7ef644abca600d28b5afd8c191,31cf935e8fa5e0cbf72107ef6437bf94,well the proper way to invoke a servlet is to define a mapping in the web.xml,02:39
+dd6f7c7ef644abca600d28b5afd8c191,31cf935e8fa5e0cbf72107ef6437bf94,which is located in your webapp/WEB-INF folder,02:39
+dd6f7c7ef644abca600d28b5afd8c191,871823fa47b3336b34ddcbaf94d58373,well the only that I did now was to set my apache vhost root to point to /opt/apache-tomcat/webapps,02:39
+dd6f7c7ef644abca600d28b5afd8c191,31cf935e8fa5e0cbf72107ef6437bf94,when you call the servlet via servlet/className you are actually calling the invoker servlet,02:39
+dd6f7c7ef644abca600d28b5afd8c191,871823fa47b3336b34ddcbaf94d58373,that is automatically redirected to the tomcat main page,02:40
+dd6f7c7ef644abca600d28b5afd8c191,31cf935e8fa5e0cbf72107ef6437bf94,which is defined in the web.xml in the conf dir of your tomcat,02:40
+dd6f7c7ef644abca600d28b5afd8c191,31cf935e8fa5e0cbf72107ef6437bf94,do oyu have a webapp?,02:40
+dd6f7c7ef644abca600d28b5afd8c191,871823fa47b3336b34ddcbaf94d58373,from there I can try to test the jsp examples but the servlets don't work .. both work fine if I go through the 8080,02:40
+dd6f7c7ef644abca600d28b5afd8c191,871823fa47b3336b34ddcbaf94d58373,yes,02:40
+dd6f7c7ef644abca600d28b5afd8c191,871823fa47b3336b34ddcbaf94d58373,what I'm testing now is the default the comes with tomcat under its webapps directory,02:41
+dd6f7c7ef644abca600d28b5afd8c191,31cf935e8fa5e0cbf72107ef6437bf94,"btorch: check your web.xml, the invoker servlet is disabled by default, cause its a security hole (small one)",02:41
+dd6f7c7ef644abca600d28b5afd8c191,871823fa47b3336b34ddcbaf94d58373,its like it can't read the web.xml under the WEB-INF,02:41
+dd6f7c7ef644abca600d28b5afd8c191,871823fa47b3336b34ddcbaf94d58373,ok,02:41
+dd6f7c7ef644abca600d28b5afd8c191,31cf935e8fa5e0cbf72107ef6437bf94,btorch: are you invoking a mapped servlet?,02:42
+dd6f7c7ef644abca600d28b5afd8c191,871823fa47b3336b34ddcbaf94d58373,got it the main conf/web.xml you mean righ t?,02:42
+dd6f7c7ef644abca600d28b5afd8c191,871823fa47b3336b34ddcbaf94d58373,there is an invoker section that is commented out,02:42
+dd6f7c7ef644abca600d28b5afd8c191,31cf935e8fa5e0cbf72107ef6437bf94,btorch: what path are you loading exactly,02:43
+dd6f7c7ef644abca600d28b5afd8c191,871823fa47b3336b34ddcbaf94d58373,for the servlet ?,02:44
+dd6f7c7ef644abca600d28b5afd8c191,871823fa47b3336b34ddcbaf94d58373,"<a href=""http://jakarta/servlets-examples/servlet/HelloWorldExample"">http://jakarta/servlets-examples/servlet/HelloWorldExample</a>",02:44
+dd6f7c7ef644abca600d28b5afd8c191,31cf935e8fa5e0cbf72107ef6437bf94,then you need the invoker i think,02:45
+dd6f7c7ef644abca600d28b5afd8c191,871823fa47b3336b34ddcbaf94d58373,hey thank you very much for your help but I got go now ... I figure the rest out later on,02:45
+dd6f7c7ef644abca600d28b5afd8c191,871823fa47b3336b34ddcbaf94d58373,later,02:45
+dd6f7c7ef644abca600d28b5afd8c191,38e6faf7dfe6481392abfcf94781a567,is it wrong if i like gay porn?,02:47
+dd6f7c7ef644abca600d28b5afd8c191,38e6faf7dfe6481392abfcf94781a567,hello?,02:47
+dd6f7c7ef644abca600d28b5afd8c191,89ecee15b8eff380f619b2d6ca05014b,yes,02:48
+dd6f7c7ef644abca600d28b5afd8c191,84c66ffaf53e2e43ffc23f409f06fa26,"Hi I am trying to launch SOAP inside tomcat, and I get the following error from the SOAP admin",02:50
+dd6f7c7ef644abca600d28b5afd8c191,84c66ffaf53e2e43ffc23f409f06fa26,org.apache.jasper.JasperException: Unable to compile class for JSP  Generated servlet error: Only a type can be imported. org.apache.soap.Constants resolves to a package,02:50
+dd6f7c7ef644abca600d28b5afd8c191,84c66ffaf53e2e43ffc23f409f06fa26,any ideas?,02:50
+dd6f7c7ef644abca600d28b5afd8c191,38e6faf7dfe6481392abfcf94781a567,you dont include a needed package that your build is pinting to,02:52
+dd6f7c7ef644abca600d28b5afd8c191,38e6faf7dfe6481392abfcf94781a567,obviously,02:52
+dd6f7c7ef644abca600d28b5afd8c191,84c66ffaf53e2e43ffc23f409f06fa26,the problem is I cant find any intructions for SOAP and Tomcat 5.x,02:52
+dd6f7c7ef644abca600d28b5afd8c191,38e6faf7dfe6481392abfcf94781a567,I dont think its tomcat so much as java implementation,02:53
+dd6f7c7ef644abca600d28b5afd8c191,38e6faf7dfe6481392abfcf94781a567,;),02:53
+dd6f7c7ef644abca600d28b5afd8c191,38e6faf7dfe6481392abfcf94781a567,www.prevayler.org,02:53
+dd6f7c7ef644abca600d28b5afd8c191,38e6faf7dfe6481392abfcf94781a567,use this,02:53
+dd6f7c7ef644abca600d28b5afd8c191,84c66ffaf53e2e43ffc23f409f06fa26,what is that?,02:54
+dd6f7c7ef644abca600d28b5afd8c191,84c66ffaf53e2e43ffc23f409f06fa26,"I am trying to use soap, not a database..",02:54
+dd6f7c7ef644abca600d28b5afd8c191,31cf935e8fa5e0cbf72107ef6437bf94,totic: you are on windows?,02:55
+dd6f7c7ef644abca600d28b5afd8c191,84c66ffaf53e2e43ffc23f409f06fa26,Debian,02:55
+dd6f7c7ef644abca600d28b5afd8c191,31cf935e8fa5e0cbf72107ef6437bf94,"totic: search the tomcats bugzilla, there were some discussion on the user list and in bugzilla (issues.apache.org) some time ago",02:56
+dd6f7c7ef644abca600d28b5afd8c191,84c66ffaf53e2e43ffc23f409f06fa26,should I use a different version of Tomcat?,02:56
+dd6f7c7ef644abca600d28b5afd8c191,31cf935e8fa5e0cbf72107ef6437bf94,"it seems that you have both, a class named ...soap.Constants and a package soap.constants....",02:56
+dd6f7c7ef644abca600d28b5afd8c191,31cf935e8fa5e0cbf72107ef6437bf94,i'm not sure that this bug is fixed though,02:56
+dd6f7c7ef644abca600d28b5afd8c191,31cf935e8fa5e0cbf72107ef6437bf94,it must be marked as jasper bug,02:57
+dd6f7c7ef644abca600d28b5afd8c191,84c66ffaf53e2e43ffc23f409f06fa26,An error occurred at line: 5 in the jsp file: /admin/list.jsp Generated servlet error: Constants.CONFIGFILENAME cannot be resolved to a type,02:57
+dd6f7c7ef644abca600d28b5afd8c191,31cf935e8fa5e0cbf72107ef6437bf94,that will probably be the problem,02:57
+dd6f7c7ef644abca600d28b5afd8c191,31cf935e8fa5e0cbf72107ef6437bf94,the same i mean,02:57
+dd6f7c7ef644abca600d28b5afd8c191,84c66ffaf53e2e43ffc23f409f06fa26,to run a soap webservice do I need all the different Tomcats or just the core?,03:01
+dd6f7c7ef644abca600d28b5afd8c191,84c66ffaf53e2e43ffc23f409f06fa26,is Tomcat 5 just buggy at this point?,03:03
+dd6f7c7ef644abca600d28b5afd8c191,31cf935e8fa5e0cbf72107ef6437bf94,"<a href=""http://issues.apache.org/bugzilla/show_bug.cgi?id=34587"">http://issues.apache.org/bugzilla/show_bug.cgi?id=34587</a>",03:03
+dd6f7c7ef644abca600d28b5afd8c191,31cf935e8fa5e0cbf72107ef6437bf94,check this out,03:04
+dd6f7c7ef644abca600d28b5afd8c191,31cf935e8fa5e0cbf72107ef6437bf94,JDTCompiler can not resolve package org.foo when class org.Foo exists,03:05
+dd6f7c7ef644abca600d28b5afd8c191,31cf935e8fa5e0cbf72107ef6437bf94,sounds like your bug,03:05
+dd6f7c7ef644abca600d28b5afd8c191,84c66ffaf53e2e43ffc23f409f06fa26,"&quot;Please reopen a new bug report when you have concrete details, rather than guessing and then withdrawing the guess ;)&quot;",03:06
+dd6f7c7ef644abca600d28b5afd8c191,84c66ffaf53e2e43ffc23f409f06fa26,thats there answer,03:06
+dd6f7c7ef644abca600d28b5afd8c191,31cf935e8fa5e0cbf72107ef6437bf94,i would post it to the user list,03:06
+dd6f7c7ef644abca600d28b5afd8c191,31cf935e8fa5e0cbf72107ef6437bf94,<email/>,03:06
+dd6f7c7ef644abca600d28b5afd8c191,84c66ffaf53e2e43ffc23f409f06fa26,email it to them?,03:06
+dd6f7c7ef644abca600d28b5afd8c191,31cf935e8fa5e0cbf72107ef6437bf94,you know how the mailing list works? :-),03:07
+dd6f7c7ef644abca600d28b5afd8c191,84c66ffaf53e2e43ffc23f409f06fa26,yes...,03:07
+dd6f7c7ef644abca600d28b5afd8c191,31cf935e8fa5e0cbf72107ef6437bf94,"there are a lot of smart people on the tomcat user list, maybe the problem is something else. just be polite and provide enough details :-)",03:08
+dd6f7c7ef644abca600d28b5afd8c191,31cf935e8fa5e0cbf72107ef6437bf94,brb,03:08
+dd6f7c7ef644abca600d28b5afd8c191,232512572096a4d8680305f759bef6c5,~tomcat,03:12
+dd6f7c7ef644abca600d28b5afd8c191,84b77faa0f84c13d2f7b769359c19b05,"tomcat is, like, at <a href=""http://jakarta.apache.org/tomcat"">http://jakarta.apache.org/tomcat</a>",03:12
+dd6f7c7ef644abca600d28b5afd8c191,232512572096a4d8680305f759bef6c5,yay the bot is working,03:12
+dd6f7c7ef644abca600d28b5afd8c191,232512572096a4d8680305f759bef6c5,~velocity,03:12
+dd6f7c7ef644abca600d28b5afd8c191,232512572096a4d8680305f759bef6c5,dont fail me now bot,03:13
+dd6f7c7ef644abca600d28b5afd8c191,232512572096a4d8680305f759bef6c5,~mysql,03:14
+dd6f7c7ef644abca600d28b5afd8c191,31cf935e8fa5e0cbf72107ef6437bf94,"totic: in the meantime, the jsp with the error is your",03:15
+dd6f7c7ef644abca600d28b5afd8c191,31cf935e8fa5e0cbf72107ef6437bf94,right?,03:15
+dd6f7c7ef644abca600d28b5afd8c191,31cf935e8fa5e0cbf72107ef6437bf94,~lintlock,03:15
+dd6f7c7ef644abca600d28b5afd8c191,84b77faa0f84c13d2f7b769359c19b05,"SQL (Structured Query Language) database server. URL: <a href=""http://www.mysql.com/"">http://www.mysql.com/</a>",03:15
+dd6f7c7ef644abca600d28b5afd8c191,84b77faa0f84c13d2f7b769359c19b05,methinks lintlock is ;P,03:15
+dd6f7c7ef644abca600d28b5afd8c191,84c66ffaf53e2e43ffc23f409f06fa26,So how do I know which elements of Tomcat do I need for a webservice such as SOAP? CORE+ Deployer+ Embedded?,03:15
+dd6f7c7ef644abca600d28b5afd8c191,31cf935e8fa5e0cbf72107ef6437bf94,core,03:15
+dd6f7c7ef644abca600d28b5afd8c191,232512572096a4d8680305f759bef6c5,~eclipse,03:16
+dd6f7c7ef644abca600d28b5afd8c191,84b77faa0f84c13d2f7b769359c19b05,"i heard eclipse is a kind of universal tool platform - an open extensible IDE for anything and nothing in particular.  <a href=""http://www.eclipse.org/"">http://www.eclipse.org/</a>",03:16
+dd6f7c7ef644abca600d28b5afd8c191,31cf935e8fa5e0cbf72107ef6437bf94,embedded is for an app with tomcat inside,03:16
+dd6f7c7ef644abca600d28b5afd8c191,31cf935e8fa5e0cbf72107ef6437bf94,~java,03:17
+dd6f7c7ef644abca600d28b5afd8c191,84b77faa0f84c13d2f7b769359c19b05,"java is probably at (Link: <a href=""http://www.blackdown.org"">http://www.blackdown.org</a>)<a href=""http://www.blackdown.org"">http://www.blackdown.org</a> or at (Link: <a href=""http://www.javasoft.com"">http://www.javasoft.com</a>)<a href=""http://www.javasoft.com"">http://www.javasoft.com</a> or at (Link: <a href=""http://www.savaje.com"">http://www.savaje.com</a>)<a href=""http://www.savaje.com"">http://www.savaje.com</a> or at (Link: <a href=""http://www.pocketlinux.com"">http://www.pocketlinux.com</a>)<a href=""http://www.pocketlinux.com"">http://www.pocketlinux.com</a> or at (Link: <a href=""http://java.sun.com"">http://java.sun.com</a>)<a href=""http://java.sun.com"">http://java.sun.com</a> or at <a href=""http://www.insignia.com"">http://www.insignia.com</a>, or see the ...",03:17
+dd6f7c7ef644abca600d28b5afd8c191,31cf935e8fa5e0cbf72107ef6437bf94,cool,03:18
+dd6f7c7ef644abca600d28b5afd8c191,232512572096a4d8680305f759bef6c5,what kind of thing is xml,03:19
+dd6f7c7ef644abca600d28b5afd8c191,232512572096a4d8680305f759bef6c5,its not a language,03:19
+dd6f7c7ef644abca600d28b5afd8c191,31cf935e8fa5e0cbf72107ef6437bf94,yes it is,03:19
+dd6f7c7ef644abca600d28b5afd8c191,31cf935e8fa5e0cbf72107ef6437bf94,extensible markup language,03:19
+dd6f7c7ef644abca600d28b5afd8c191,232512572096a4d8680305f759bef6c5,thanks,03:19
+dd6f7c7ef644abca600d28b5afd8c191,232512572096a4d8680305f759bef6c5,i was thinking c++ and java,03:20
+dd6f7c7ef644abca600d28b5afd8c191,31cf935e8fa5e0cbf72107ef6437bf94,"lintlock: out of scope, but java is an imperative programming language, and xml is a declarative language, like sql is",03:22
+dd6f7c7ef644abca600d28b5afd8c191,232512572096a4d8680305f759bef6c5,got ya,03:44
+dd6f7c7ef644abca600d28b5afd8c191,232512572096a4d8680305f759bef6c5,just trying to get this poster presntation right,03:44
+dd6f7c7ef644abca600d28b5afd8c191,232512572096a4d8680305f759bef6c5,alright,03:59
+dd6f7c7ef644abca600d28b5afd8c191,232512572096a4d8680305f759bef6c5,see you all later,03:59
+49431a6a36bfe9c7f46bb6e34f5709db,348309b191d16ece61f0db63ebfa2389,he,18:44
+49431a6a36bfe9c7f46bb6e34f5709db,348309b191d16ece61f0db63ebfa2389,y,18:44
+49431a6a36bfe9c7f46bb6e34f5709db,348309b191d16ece61f0db63ebfa2389,hey,18:45
+49431a6a36bfe9c7f46bb6e34f5709db,348309b191d16ece61f0db63ebfa2389,hey,18:45
+a2777e64b708da4eb2f2c8da4454ebe8,6f1ddcbf54059f07cd5ff51f1358906a,hi,07:31
+a2777e64b708da4eb2f2c8da4454ebe8,6f1ddcbf54059f07cd5ff51f1358906a,asl?,07:31
+a2777e64b708da4eb2f2c8da4454ebe8,e0f2dff79e56e07d21aa1b14f0e795db,hi,07:31
+a2777e64b708da4eb2f2c8da4454ebe8,e0f2dff79e56e07d21aa1b14f0e795db,20 f us,07:31
+a2777e64b708da4eb2f2c8da4454ebe8,e0f2dff79e56e07d21aa1b14f0e795db,you?,07:31
+49838a37c2a1d8af5d27afc55448b521,3c1a153d81002878b83df957ee534f47,hey Kevinmarks - still awake at foo?,13:09
+49838a37c2a1d8af5d27afc55448b521,6bb7c2407773f7d3f9e1e33795159f95,#foocamp http://is.gd/2FGOU,13:26
+49838a37c2a1d8af5d27afc55448b521,3c1a153d81002878b83df957ee534f47,6bb7c2407773f7d3f9e1e33795159f95 - whoa - how recent is that? from this year?,13:27
+49838a37c2a1d8af5d27afc55448b521,6bb7c2407773f7d3f9e1e33795159f95,i wouldn't doubt it,13:28
+b073155c5f4c846b2757543a60826d81,c50907487cc6a19abb076a04713cad32,hey!,04:25
+b073155c5f4c846b2757543a60826d81,10a0c71f1e45f92d3a8aa8bfe0b3538c,Heyyyy,04:25
+b073155c5f4c846b2757543a60826d81,c50907487cc6a19abb076a04713cad32,whats up,04:26
+b073155c5f4c846b2757543a60826d81,10a0c71f1e45f92d3a8aa8bfe0b3538c,What&apos;s up.,04:26
+b073155c5f4c846b2757543a60826d81,10a0c71f1e45f92d3a8aa8bfe0b3538c,.,04:26
+b073155c5f4c846b2757543a60826d81,c50907487cc6a19abb076a04713cad32,not much!,04:26
+b073155c5f4c846b2757543a60826d81,c50907487cc6a19abb076a04713cad32,you,04:26
+b073155c5f4c846b2757543a60826d81,c50907487cc6a19abb076a04713cad32,you?,04:26
+b073155c5f4c846b2757543a60826d81,c50907487cc6a19abb076a04713cad32,you?!?!?,04:26
+b073155c5f4c846b2757543a60826d81,c50907487cc6a19abb076a04713cad32,YOU!?!?!?!,04:26
+b073155c5f4c846b2757543a60826d81,10a0c71f1e45f92d3a8aa8bfe0b3538c,&quot;ugh,04:26
+b073155c5f4c846b2757543a60826d81,c50907487cc6a19abb076a04713cad32,FUCKIN YOU!!!?????!?,04:26
+b073155c5f4c846b2757543a60826d81,10a0c71f1e45f92d3a8aa8bfe0b3538c,Nm,04:26
+b073155c5f4c846b2757543a60826d81,10a0c71f1e45f92d3a8aa8bfe0b3538c,R,04:26
+b073155c5f4c846b2757543a60826d81,c50907487cc6a19abb076a04713cad32,niceeeee,04:27
+b073155c5f4c846b2757543a60826d81,10a0c71f1e45f92d3a8aa8bfe0b3538c,U,04:27
+b073155c5f4c846b2757543a60826d81,10a0c71f1e45f92d3a8aa8bfe0b3538c,A,04:27
+b073155c5f4c846b2757543a60826d81,10a0c71f1e45f92d3a8aa8bfe0b3538c,Girl or boy.,04:27
+b073155c5f4c846b2757543a60826d81,c50907487cc6a19abb076a04713cad32,im whatever you want me to be ;),04:27
+b073155c5f4c846b2757543a60826d81,10a0c71f1e45f92d3a8aa8bfe0b3538c,I think you a guy.,04:27
+b073155c5f4c846b2757543a60826d81,c50907487cc6a19abb076a04713cad32,i think youre wrong,04:28
+b073155c5f4c846b2757543a60826d81,c50907487cc6a19abb076a04713cad32,ive got a nice big vagina for ya,04:28
+b073155c5f4c846b2757543a60826d81,10a0c71f1e45f92d3a8aa8bfe0b3538c,Your a girl.?,04:28
+b073155c5f4c846b2757543a60826d81,c50907487cc6a19abb076a04713cad32,mmmm you want it,04:28
+b073155c5f4c846b2757543a60826d81,c50907487cc6a19abb076a04713cad32,awww yeahhhh,04:28
+b073155c5f4c846b2757543a60826d81,10a0c71f1e45f92d3a8aa8bfe0b3538c,He&apos;ll noo slut,04:28
+fc77b9ed8d13697e8deea79de0b4df23,6f35a1f69fd4ae82056e4bc6a8a84575,hey!!,23:56
+fc77b9ed8d13697e8deea79de0b4df23,5c5b806fbd1826340209616ddb9ed767,hi!,23:56
+fc77b9ed8d13697e8deea79de0b4df23,5c5b806fbd1826340209616ddb9ed767,how are you feeling?,23:57
+fc77b9ed8d13697e8deea79de0b4df23,6f35a1f69fd4ae82056e4bc6a8a84575,a little better what are u doing?,23:57
+fc77b9ed8d13697e8deea79de0b4df23,5c5b806fbd1826340209616ddb9ed767,i was just listening to some music,23:57
+fc77b9ed8d13697e8deea79de0b4df23,5c5b806fbd1826340209616ddb9ed767,i have to go to bed soon,23:58
+fc77b9ed8d13697e8deea79de0b4df23,5c5b806fbd1826340209616ddb9ed767,i have school tomorrow,23:58
+fc77b9ed8d13697e8deea79de0b4df23,6f35a1f69fd4ae82056e4bc6a8a84575,yea i thought u did i just woke and checked to see if u came on and ur here!! :-*,23:58
+fc77b9ed8d13697e8deea79de0b4df23,5c5b806fbd1826340209616ddb9ed767,:-*,23:58
+fc77b9ed8d13697e8deea79de0b4df23,6f35a1f69fd4ae82056e4bc6a8a84575,so what did u do today?,23:59
+fc77b9ed8d13697e8deea79de0b4df23,5c5b806fbd1826340209616ddb9ed767,did chores,00:00
+fc77b9ed8d13697e8deea79de0b4df23,6f35a1f69fd4ae82056e4bc6a8a84575,sounds like fun lol,00:00
+fc77b9ed8d13697e8deea79de0b4df23,5c5b806fbd1826340209616ddb9ed767,not,00:00
+fc77b9ed8d13697e8deea79de0b4df23,5c5b806fbd1826340209616ddb9ed767,lol,00:00
+fc77b9ed8d13697e8deea79de0b4df23,5c5b806fbd1826340209616ddb9ed767,what did you do?,00:00
+fc77b9ed8d13697e8deea79de0b4df23,6f35a1f69fd4ae82056e4bc6a8a84575,washed some cloths and started feeling bad nd layed down and fell alseep for 6 hours lol,00:01
+fc77b9ed8d13697e8deea79de0b4df23,5c5b806fbd1826340209616ddb9ed767,wow,00:02
+fc77b9ed8d13697e8deea79de0b4df23,5c5b806fbd1826340209616ddb9ed767,lol,00:02
+fc77b9ed8d13697e8deea79de0b4df23,5c5b806fbd1826340209616ddb9ed767,long nap,00:02
+fc77b9ed8d13697e8deea79de0b4df23,6f35a1f69fd4ae82056e4bc6a8a84575,yea just a little,00:02
+fc77b9ed8d13697e8deea79de0b4df23,5c5b806fbd1826340209616ddb9ed767,did you think about me today?,00:03
+fc77b9ed8d13697e8deea79de0b4df23,6f35a1f69fd4ae82056e4bc6a8a84575,yes sweetie i think about u everyday !!,00:03
+fc77b9ed8d13697e8deea79de0b4df23,5c5b806fbd1826340209616ddb9ed767,:D,00:04
+fc77b9ed8d13697e8deea79de0b4df23,6f35a1f69fd4ae82056e4bc6a8a84575,is ur mom alseep?,00:04
+fc77b9ed8d13697e8deea79de0b4df23,5c5b806fbd1826340209616ddb9ed767,no,00:05
+fc77b9ed8d13697e8deea79de0b4df23,5c5b806fbd1826340209616ddb9ed767,she is in her room but not asleep,00:05
+fc77b9ed8d13697e8deea79de0b4df23,6f35a1f69fd4ae82056e4bc6a8a84575,oh ic,00:05
+fc77b9ed8d13697e8deea79de0b4df23,5c5b806fbd1826340209616ddb9ed767,lol im yawning,00:06
+fc77b9ed8d13697e8deea79de0b4df23,5c5b806fbd1826340209616ddb9ed767,you are probably wide awake,00:06
+fc77b9ed8d13697e8deea79de0b4df23,5c5b806fbd1826340209616ddb9ed767,lol,00:06
+fc77b9ed8d13697e8deea79de0b4df23,6f35a1f69fd4ae82056e4bc6a8a84575,yea a little lol,00:07
+fc77b9ed8d13697e8deea79de0b4df23,5c5b806fbd1826340209616ddb9ed767,:D,00:07
+fc77b9ed8d13697e8deea79de0b4df23,6f35a1f69fd4ae82056e4bc6a8a84575,cory...? i wanna see u do u think that is bad?,00:08
+fc77b9ed8d13697e8deea79de0b4df23,5c5b806fbd1826340209616ddb9ed767,no i dont think it is bad,00:08
+fc77b9ed8d13697e8deea79de0b4df23,5c5b806fbd1826340209616ddb9ed767,why?,00:08
+fc77b9ed8d13697e8deea79de0b4df23,6f35a1f69fd4ae82056e4bc6a8a84575,because i do not for sex or anything like that i just wanna see u i feel if i dont then i might lose u or something i know that sounds stupid,00:10
+fc77b9ed8d13697e8deea79de0b4df23,5c5b806fbd1826340209616ddb9ed767,you wont lose me,00:10
+fc77b9ed8d13697e8deea79de0b4df23,5c5b806fbd1826340209616ddb9ed767,:D,00:10
+fc77b9ed8d13697e8deea79de0b4df23,5c5b806fbd1826340209616ddb9ed767,mom and her bf go out of town every month for a few days,00:10
+fc77b9ed8d13697e8deea79de0b4df23,5c5b806fbd1826340209616ddb9ed767,maybe the next time they go out of town,00:11
+fc77b9ed8d13697e8deea79de0b4df23,6f35a1f69fd4ae82056e4bc6a8a84575,ok,00:11
+fc77b9ed8d13697e8deea79de0b4df23,5c5b806fbd1826340209616ddb9ed767,if you really want to,00:11
+fc77b9ed8d13697e8deea79de0b4df23,6f35a1f69fd4ae82056e4bc6a8a84575,i do really bad! do u?,00:11
+fc77b9ed8d13697e8deea79de0b4df23,5c5b806fbd1826340209616ddb9ed767,yea,00:11
+fc77b9ed8d13697e8deea79de0b4df23,6f35a1f69fd4ae82056e4bc6a8a84575,u sure?,00:11
+fc77b9ed8d13697e8deea79de0b4df23,5c5b806fbd1826340209616ddb9ed767,yea im sure,00:12
+fc77b9ed8d13697e8deea79de0b4df23,5c5b806fbd1826340209616ddb9ed767,are you?,00:12
+fc77b9ed8d13697e8deea79de0b4df23,6f35a1f69fd4ae82056e4bc6a8a84575,lol i have never been sure about anything else before in my life!,00:12
+fc77b9ed8d13697e8deea79de0b4df23,5c5b806fbd1826340209616ddb9ed767,:D,00:13
+fc77b9ed8d13697e8deea79de0b4df23,6f35a1f69fd4ae82056e4bc6a8a84575,i didnt scare u last night with the things i said did i ? its just when i drink i get really friendly if u know what i mean lol,00:14
+fc77b9ed8d13697e8deea79de0b4df23,5c5b806fbd1826340209616ddb9ed767,no you didnt scare me,00:14
+fc77b9ed8d13697e8deea79de0b4df23,5c5b806fbd1826340209616ddb9ed767,you really want me like that?,00:15
+fc77b9ed8d13697e8deea79de0b4df23,6f35a1f69fd4ae82056e4bc6a8a84575,yea i do but i dont want i to do anything u dont wanna do,00:15
+fc77b9ed8d13697e8deea79de0b4df23,6f35a1f69fd4ae82056e4bc6a8a84575,u*,00:15
+fc77b9ed8d13697e8deea79de0b4df23,5c5b806fbd1826340209616ddb9ed767,yea,00:16
+fc77b9ed8d13697e8deea79de0b4df23,6f35a1f69fd4ae82056e4bc6a8a84575,how do u feel about it?,00:17
+fc77b9ed8d13697e8deea79de0b4df23,5c5b806fbd1826340209616ddb9ed767,i think it would be nice,00:17
+fc77b9ed8d13697e8deea79de0b4df23,5c5b806fbd1826340209616ddb9ed767,but it is up to you,00:17
+fc77b9ed8d13697e8deea79de0b4df23,6f35a1f69fd4ae82056e4bc6a8a84575,lol why is everything up to me? i want u to wanna do what ever u want to !,00:17
+fc77b9ed8d13697e8deea79de0b4df23,5c5b806fbd1826340209616ddb9ed767,lol,00:18
+fc77b9ed8d13697e8deea79de0b4df23,6f35a1f69fd4ae82056e4bc6a8a84575,well all i know is that im falling for u really fast!,00:19
+fc77b9ed8d13697e8deea79de0b4df23,5c5b806fbd1826340209616ddb9ed767,you are?,00:19
+fc77b9ed8d13697e8deea79de0b4df23,6f35a1f69fd4ae82056e4bc6a8a84575,yea i am falling really really fast!,00:20
+fc77b9ed8d13697e8deea79de0b4df23,5c5b806fbd1826340209616ddb9ed767,wow,00:20
+fc77b9ed8d13697e8deea79de0b4df23,6f35a1f69fd4ae82056e4bc6a8a84575,why u say wow?,00:20
+fc77b9ed8d13697e8deea79de0b4df23,5c5b806fbd1826340209616ddb9ed767,no on ever said anything like that to me before,00:20
+fc77b9ed8d13697e8deea79de0b4df23,5c5b806fbd1826340209616ddb9ed767,:D,00:20
+fc77b9ed8d13697e8deea79de0b4df23,6f35a1f69fd4ae82056e4bc6a8a84575,well im kinda glad no one has so i can be the first to tell u this things because i mean everything i say to u!!!,00:21
+fc77b9ed8d13697e8deea79de0b4df23,5c5b806fbd1826340209616ddb9ed767,you are so sweet,00:21
+fc77b9ed8d13697e8deea79de0b4df23,6f35a1f69fd4ae82056e4bc6a8a84575,so are u i love everything about u and i dont want u to ever forget that!,00:22
+fc77b9ed8d13697e8deea79de0b4df23,5c5b806fbd1826340209616ddb9ed767,ok,00:22
+fc77b9ed8d13697e8deea79de0b4df23,6f35a1f69fd4ae82056e4bc6a8a84575,>:D< :-*,00:23
+fc77b9ed8d13697e8deea79de0b4df23,5c5b806fbd1826340209616ddb9ed767,:-:-,00:23
+fc77b9ed8d13697e8deea79de0b4df23,6f35a1f69fd4ae82056e4bc6a8a84575,well i dont want u to go but i think u need to goto bed ???,00:23
+fc77b9ed8d13697e8deea79de0b4df23,5c5b806fbd1826340209616ddb9ed767,wait!,00:24
+fc77b9ed8d13697e8deea79de0b4df23,5c5b806fbd1826340209616ddb9ed767,looking for something,00:24
+fc77b9ed8d13697e8deea79de0b4df23,6f35a1f69fd4ae82056e4bc6a8a84575,what?,00:24
+fc77b9ed8d13697e8deea79de0b4df23,5c5b806fbd1826340209616ddb9ed767,a video,00:26
+fc77b9ed8d13697e8deea79de0b4df23,6f35a1f69fd4ae82056e4bc6a8a84575,oh ok :),00:26
+fc77b9ed8d13697e8deea79de0b4df23,5c5b806fbd1826340209616ddb9ed767,cant find what i am looking for,00:28
+fc77b9ed8d13697e8deea79de0b4df23,6f35a1f69fd4ae82056e4bc6a8a84575,what are u looking for?,00:28
+fc77b9ed8d13697e8deea79de0b4df23,5c5b806fbd1826340209616ddb9ed767,amy lees idea ofa love song,00:30
+fc77b9ed8d13697e8deea79de0b4df23,5c5b806fbd1826340209616ddb9ed767,:D,00:30
+fc77b9ed8d13697e8deea79de0b4df23,6f35a1f69fd4ae82056e4bc6a8a84575,i like both of those songs!!!!,00:31
+fc77b9ed8d13697e8deea79de0b4df23,5c5b806fbd1826340209616ddb9ed767,cool,00:31
+fc77b9ed8d13697e8deea79de0b4df23,5c5b806fbd1826340209616ddb9ed767,okay i am going to bed now,00:31
+fc77b9ed8d13697e8deea79de0b4df23,5c5b806fbd1826340209616ddb9ed767,>:D<,00:31
+fc77b9ed8d13697e8deea79de0b4df23,5c5b806fbd1826340209616ddb9ed767,:-:-:-:-*,00:31
+fc77b9ed8d13697e8deea79de0b4df23,6f35a1f69fd4ae82056e4bc6a8a84575,think about me tommroww?,00:33
+fc77b9ed8d13697e8deea79de0b4df23,5c5b806fbd1826340209616ddb9ed767,yes!,00:33
+fc77b9ed8d13697e8deea79de0b4df23,6f35a1f69fd4ae82056e4bc6a8a84575,ok!,00:33
+fc77b9ed8d13697e8deea79de0b4df23,5c5b806fbd1826340209616ddb9ed767,talk to you later,00:34
+fc77b9ed8d13697e8deea79de0b4df23,5c5b806fbd1826340209616ddb9ed767,night,00:34
+fc77b9ed8d13697e8deea79de0b4df23,5c5b806fbd1826340209616ddb9ed767,:-*,00:34
+fc77b9ed8d13697e8deea79de0b4df23,6f35a1f69fd4ae82056e4bc6a8a84575,good night sweetie!!,00:34
+eae4c649c38557c9b1f81c01c17b948f,c28055c1cdc024189ea51062c96e7e56,hey,08:52
+eae4c649c38557c9b1f81c01c17b948f,f17718f06f04582dbc6817eb5cfc3873,hey,08:52
+eae4c649c38557c9b1f81c01c17b948f,f17718f06f04582dbc6817eb5cfc3873,asl?,08:53
+eae4c649c38557c9b1f81c01c17b948f,c28055c1cdc024189ea51062c96e7e56,16 f brazil,08:53
+eae4c649c38557c9b1f81c01c17b948f,f17718f06f04582dbc6817eb5cfc3873,cool,08:53
+867fef9f51bdbac494bc3f8c6533f858,b4f700dc7468a47ed70436e16df14335,hey,07:20
+867fef9f51bdbac494bc3f8c6533f858,666d2ac3d6d9bb437603e7c1a1524a11,are you the guy who like pantra,07:21
+867fef9f51bdbac494bc3f8c6533f858,666d2ac3d6d9bb437603e7c1a1524a11,pantera,07:21
+867fef9f51bdbac494bc3f8c6533f858,b4f700dc7468a47ed70436e16df14335,no?,07:21
+8a58c4e9d7ab994b542426c92f78e999,ccf45dbafa81bea26753c6ff03e271b4,hi,16:03
+8a58c4e9d7ab994b542426c92f78e999,ccf45dbafa81bea26753c6ff03e271b4,asl,16:03
+8a58c4e9d7ab994b542426c92f78e999,ccf45dbafa81bea26753c6ff03e271b4,plz,16:03
+8a58c4e9d7ab994b542426c92f78e999,ccf45dbafa81bea26753c6ff03e271b4,Happy Friendship day,16:03
+dd853d3f28d51df2fceb0a18bdee3ef5,f139aba52f9fa1394b4034a7954b2220,LOL. I wonder where Dmitry will find Developers crazy enough to implement his HTML6 proposals,22:43
+dd853d3f28d51df2fceb0a18bdee3ef5,69b0d3dfe919a6b860a9fac82de52a7e,mark baker's opinions are coming into focus as something quite sensible,22:47
+dd853d3f28d51df2fceb0a18bdee3ef5,69b0d3dfe919a6b860a9fac82de52a7e,"i don't really agree with him about wanting the DOM attributes and content attributes in different sections, but i don't think it'd be that hard to do for most attributes",22:48
+dd853d3f28d51df2fceb0a18bdee3ef5,69b0d3dfe919a6b860a9fac82de52a7e,"for some it'd be difficult, though, like video",22:48
+dd853d3f28d51df2fceb0a18bdee3ef5,a924fb58d2c25874322f4e5126f608b9,"But wouldn't a stylesheet also handle that, for any separation within the same document?",22:49
+dd853d3f28d51df2fceb0a18bdee3ef5,69b0d3dfe919a6b860a9fac82de52a7e,"well he wants to see the definitions as far as i can tell, just clearly separated from the content attributes",22:50
+dd853d3f28d51df2fceb0a18bdee3ef5,f139aba52f9fa1394b4034a7954b2220,"yeah, that could be something reasonable to do for some elements",23:05
+dd853d3f28d51df2fceb0a18bdee3ef5,69b0d3dfe919a6b860a9fac82de52a7e,"the WebSocket and Structured client-side storage sections are reasonably self-contained, i guess i could split them out around last call time",23:21
+dd853d3f28d51df2fceb0a18bdee3ef5,69b0d3dfe919a6b860a9fac82de52a7e,would have to do something about MessageEvent,23:21
+dd853d3f28d51df2fceb0a18bdee3ef5,69b0d3dfe919a6b860a9fac82de52a7e,maybe we can get that into DOM3 Events,23:21
+dd853d3f28d51df2fceb0a18bdee3ef5,69b0d3dfe919a6b860a9fac82de52a7e,"65325d50b2e25aca54bc871b89758c9c_: btw, did you have any opinions on chaals' reply to my comments on the progress events stuff?",23:22
+dd853d3f28d51df2fceb0a18bdee3ef5,69b0d3dfe919a6b860a9fac82de52a7e,it would be helpful to know what would be most helpful for implementations,23:23
+dd853d3f28d51df2fceb0a18bdee3ef5,69b0d3dfe919a6b860a9fac82de52a7e,since if his style is better then i should change html5 to match,23:23
+dd853d3f28d51df2fceb0a18bdee3ef5,65325d50b2e25aca54bc871b89758c9c,69b0d3dfe919a6b860a9fac82de52a7e: I'll take a look,23:27
+dd853d3f28d51df2fceb0a18bdee3ef5,69b0d3dfe919a6b860a9fac82de52a7e,thx,23:28
+dd853d3f28d51df2fceb0a18bdee3ef5,69b0d3dfe919a6b860a9fac82de52a7e,ok bbl.,23:39
+dd853d3f28d51df2fceb0a18bdee3ef5,6d05f0c2942adc25946a4b02b37ffa00,http://golem.ph.utexas.edu/~distler/blog/archives/001842.html :),23:42
+88e1c316213bb68e121f512aa617f79f,c62283536cf6261e5ffbcb323c8a2571,hi,19:12
+88e1c316213bb68e121f512aa617f79f,c62283536cf6261e5ffbcb323c8a2571,i guess your not on,19:13
+88e1c316213bb68e121f512aa617f79f,c62283536cf6261e5ffbcb323c8a2571,be back at 10,19:13
+88e1c316213bb68e121f512aa617f79f,518484f354998ce2143069a93aca6419,I'm here,19:23
+88e1c316213bb68e121f512aa617f79f,518484f354998ce2143069a93aca6419,are u there?,19:23
+88e1c316213bb68e121f512aa617f79f,518484f354998ce2143069a93aca6419,ok see u at 10,19:24
+88e1c316213bb68e121f512aa617f79f,c62283536cf6261e5ffbcb323c8a2571,you there,19:45
+88e1c316213bb68e121f512aa617f79f,518484f354998ce2143069a93aca6419,am now,19:46
+88e1c316213bb68e121f512aa617f79f,518484f354998ce2143069a93aca6419,are u?,19:46
+b0772b27b7024430b87d4c7ae0a155b9,426d450c17f724debd38d9c70f0744d6,hi :),21:47
+b0772b27b7024430b87d4c7ae0a155b9,90e1b9d6767d701c29a0d972f1d3be82,hey m or f?,21:47
+b0772b27b7024430b87d4c7ae0a155b9,426d450c17f724debd38d9c70f0744d6,f,21:47
+b0772b27b7024430b87d4c7ae0a155b9,426d450c17f724debd38d9c70f0744d6,and you?,21:47
+b0772b27b7024430b87d4c7ae0a155b9,90e1b9d6767d701c29a0d972f1d3be82,cool m,21:47
+b0772b27b7024430b87d4c7ae0a155b9,90e1b9d6767d701c29a0d972f1d3be82,umm im 15 hbu?,21:48
+b0772b27b7024430b87d4c7ae0a155b9,426d450c17f724debd38d9c70f0744d6,"hahah im 17, soon to be 18",21:48
+b0772b27b7024430b87d4c7ae0a155b9,426d450c17f724debd38d9c70f0744d6,&lt;3,21:48
+b0772b27b7024430b87d4c7ae0a155b9,90e1b9d6767d701c29a0d972f1d3be82,cool,21:48
+b0772b27b7024430b87d4c7ae0a155b9,426d450c17f724debd38d9c70f0744d6,where are you from?,21:48
+b0772b27b7024430b87d4c7ae0a155b9,426d450c17f724debd38d9c70f0744d6,haha i know ;),21:48
+b0772b27b7024430b87d4c7ae0a155b9,90e1b9d6767d701c29a0d972f1d3be82,america hbu?,21:48
+b0772b27b7024430b87d4c7ae0a155b9,426d450c17f724debd38d9c70f0744d6,im from norway :),21:49
+b0772b27b7024430b87d4c7ae0a155b9,90e1b9d6767d701c29a0d972f1d3be82,cool umm wat do u want to tlk about?,21:49
+b0772b27b7024430b87d4c7ae0a155b9,426d450c17f724debd38d9c70f0744d6,im open for everything ;) &lt;3,21:49
+b0772b27b7024430b87d4c7ae0a155b9,426d450c17f724debd38d9c70f0744d6,"sex, politics, you name it :P",21:50
+b0772b27b7024430b87d4c7ae0a155b9,426d450c17f724debd38d9c70f0744d6,im up for a challenge ;),21:50
+b0772b27b7024430b87d4c7ae0a155b9,90e1b9d6767d701c29a0d972f1d3be82,cool umm how big r ur breasts?,21:50
+b0772b27b7024430b87d4c7ae0a155b9,426d450c17f724debd38d9c70f0744d6,i think im an american c-cup?,21:50
+b0772b27b7024430b87d4c7ae0a155b9,426d450c17f724debd38d9c70f0744d6,and how large is your dick? ;),21:50
+b0772b27b7024430b87d4c7ae0a155b9,90e1b9d6767d701c29a0d972f1d3be82,umm hold on ill measure,21:51
+b0772b27b7024430b87d4c7ae0a155b9,426d450c17f724debd38d9c70f0744d6,is it hard? ;) &lt;3,21:51
+b0772b27b7024430b87d4c7ae0a155b9,90e1b9d6767d701c29a0d972f1d3be82,yupp,21:51
+b0772b27b7024430b87d4c7ae0a155b9,90e1b9d6767d701c29a0d972f1d3be82,im like 6 1/2,21:52
+b0772b27b7024430b87d4c7ae0a155b9,90e1b9d6767d701c29a0d972f1d3be82,hello?,21:52
+b0772b27b7024430b87d4c7ae0a155b9,426d450c17f724debd38d9c70f0744d6,wow thats BIG for a 15 year old :O,21:52
+b0772b27b7024430b87d4c7ae0a155b9,426d450c17f724debd38d9c70f0744d6,you are sure that your 15 rigt? :P,21:53
+b0772b27b7024430b87d4c7ae0a155b9,90e1b9d6767d701c29a0d972f1d3be82,ya well i turn 15 in a month :/,21:53
+b0772b27b7024430b87d4c7ae0a155b9,426d450c17f724debd38d9c70f0744d6,OMG!,21:53
+b0772b27b7024430b87d4c7ae0a155b9,426d450c17f724debd38d9c70f0744d6,youre 14?,21:53
+b0772b27b7024430b87d4c7ae0a155b9,90e1b9d6767d701c29a0d972f1d3be82,ya,21:54
+b0772b27b7024430b87d4c7ae0a155b9,426d450c17f724debd38d9c70f0744d6,with a 6 1/2 inch dick?,21:54
+b0772b27b7024430b87d4c7ae0a155b9,426d450c17f724debd38d9c70f0744d6,"wow, the girls must really LOVE you! ;)",21:54
+b0772b27b7024430b87d4c7ae0a155b9,90e1b9d6767d701c29a0d972f1d3be82,ya soo hav u had sex?,21:54
+b0772b27b7024430b87d4c7ae0a155b9,90e1b9d6767d701c29a0d972f1d3be82,hello?,21:55
+b0772b27b7024430b87d4c7ae0a155b9,426d450c17f724debd38d9c70f0744d6,"haha, yeah, a few one nights stands, and i have a guy-friend who i have sex with on a regular basis, were just not bf and gf if u understand :P",21:55
+b0772b27b7024430b87d4c7ae0a155b9,426d450c17f724debd38d9c70f0744d6,"and you, you little stud ? ;) &lt;3",21:56
+b0772b27b7024430b87d4c7ae0a155b9,90e1b9d6767d701c29a0d972f1d3be82,ha no probably wont for a lil while all i do is masterbate,21:56
+b0772b27b7024430b87d4c7ae0a155b9,426d450c17f724debd38d9c70f0744d6,"seriously, if the girls knew what you were hiding in your pants, you wouldnt get a moments rest!",21:57
+b0772b27b7024430b87d4c7ae0a155b9,426d450c17f724debd38d9c70f0744d6,i would certainly like a taste of that myself ;),21:57
+b0772b27b7024430b87d4c7ae0a155b9,90e1b9d6767d701c29a0d972f1d3be82,ya i kno....at wuld u do if we wer in a hotel room for the nite?,21:58
+b0772b27b7024430b87d4c7ae0a155b9,426d450c17f724debd38d9c70f0744d6,i would be your slave,21:58
+b0772b27b7024430b87d4c7ae0a155b9,426d450c17f724debd38d9c70f0744d6,i would wear a silk thong and nothing else,21:59
+b0772b27b7024430b87d4c7ae0a155b9,90e1b9d6767d701c29a0d972f1d3be82,wat u meen?,21:59
+b0772b27b7024430b87d4c7ae0a155b9,90e1b9d6767d701c29a0d972f1d3be82,ooooo,21:59
+b0772b27b7024430b87d4c7ae0a155b9,90e1b9d6767d701c29a0d972f1d3be82,wat else?,21:59
+b0772b27b7024430b87d4c7ae0a155b9,426d450c17f724debd38d9c70f0744d6,you would get to do whatever you wnated to me ;),21:59
+b0772b27b7024430b87d4c7ae0a155b9,426d450c17f724debd38d9c70f0744d6,i would probably tear of your pants,21:59
+b0772b27b7024430b87d4c7ae0a155b9,426d450c17f724debd38d9c70f0744d6,trying to get to that lovely cock of yours,21:59
+b0772b27b7024430b87d4c7ae0a155b9,426d450c17f724debd38d9c70f0744d6,i would sick it like a lollipop,22:00
+b0772b27b7024430b87d4c7ae0a155b9,90e1b9d6767d701c29a0d972f1d3be82,ya ya,22:00
+b0772b27b7024430b87d4c7ae0a155b9,426d450c17f724debd38d9c70f0744d6,and bop it like the whore i am,22:00
+b0772b27b7024430b87d4c7ae0a155b9,90e1b9d6767d701c29a0d972f1d3be82,oooo how wuld we do it?,22:00
+b0772b27b7024430b87d4c7ae0a155b9,426d450c17f724debd38d9c70f0744d6,you would be forceful,22:00
+b0772b27b7024430b87d4c7ae0a155b9,426d450c17f724debd38d9c70f0744d6,you would slap me acrossh my face and call me a bitc,22:01
+b0772b27b7024430b87d4c7ae0a155b9,426d450c17f724debd38d9c70f0744d6,"you would throw me at the floor, tearing my thong of",22:01
+b0772b27b7024430b87d4c7ae0a155b9,426d450c17f724debd38d9c70f0744d6,and fuck me hard in my moist pussy,22:01
+b0772b27b7024430b87d4c7ae0a155b9,426d450c17f724debd38d9c70f0744d6,you would pound me like noone ever has,22:01
+b0772b27b7024430b87d4c7ae0a155b9,426d450c17f724debd38d9c70f0744d6,and i would scream as my pusyy would contract around your huge penis penetate me,22:02
+b0772b27b7024430b87d4c7ae0a155b9,426d450c17f724debd38d9c70f0744d6,over and over,22:02
+b0772b27b7024430b87d4c7ae0a155b9,90e1b9d6767d701c29a0d972f1d3be82,hold on,22:03
+b0772b27b7024430b87d4c7ae0a155b9,90e1b9d6767d701c29a0d972f1d3be82,srry,22:03
+b0772b27b7024430b87d4c7ae0a155b9,426d450c17f724debd38d9c70f0744d6,i would have several orgasm as you pull my head up,22:03
+b0772b27b7024430b87d4c7ae0a155b9,426d450c17f724debd38d9c70f0744d6,no prob ;),22:03
+b0772b27b7024430b87d4c7ae0a155b9,90e1b9d6767d701c29a0d972f1d3be82,man sounds fun,22:04
+b0772b27b7024430b87d4c7ae0a155b9,426d450c17f724debd38d9c70f0744d6,haha i know,22:04
+b0772b27b7024430b87d4c7ae0a155b9,426d450c17f724debd38d9c70f0744d6,you got any scenarioes as well? ;),22:04
+b0772b27b7024430b87d4c7ae0a155b9,90e1b9d6767d701c29a0d972f1d3be82,well we wuld do it in the shower then u wuld suck my dick as i cum all over ur amazing breasts and u wont be able to walk straight for a week,22:06
+b0772b27b7024430b87d4c7ae0a155b9,426d450c17f724debd38d9c70f0744d6,would you fuck my ass?,22:06
+b0772b27b7024430b87d4c7ae0a155b9,90e1b9d6767d701c29a0d972f1d3be82,of course i wuld hold ur boobs and u wuld go up and down on my penis,22:07
+e12643ad835d04be90538f0ad491597c,a11aabeeceeae6b8cb5d12ea06b56554,zcorpan: Does window.FileList implement [[Call]]?,15:37
+e12643ad835d04be90538f0ad491597c,a11aabeeceeae6b8cb5d12ea06b56554,"zcorpan: (per ES5, host objects that implement [[Call]] must return &quot;function&quot;; host objects that don't implement call can return anything except &quot;undefined&quot;, &quot;boolean&quot;, &quot;number&quot;, or &quot;string&quot;)",15:40
+521266b150ce5decf2ca01da5852a8ec,7d45da764b27057545d2cc91df4193c3,hii there,23:46
+521266b150ce5decf2ca01da5852a8ec,a217b36f34a22394221929308e5c86ca,hi,23:46
+521266b150ce5decf2ca01da5852a8ec,a217b36f34a22394221929308e5c86ca,horny babe?,23:46
+521266b150ce5decf2ca01da5852a8ec,7d45da764b27057545d2cc91df4193c3,Ouuhh yeah.. not.,23:46
+bff49c8d479461632bebd348130747e8,d945e29d5fd62d107f0491acb6584c7d,hey7,04:57
+bff49c8d479461632bebd348130747e8,0d466cf4ec952b3036284d7a07befdba,"Hey,if you&apos;re a girl thats wants to talk dirty with a guy thats very good at it, add me on skype, username jcodes ;)",04:57
+bff49c8d479461632bebd348130747e8,d945e29d5fd62d107f0491acb6584c7d,hey*,04:57
+4c548da19374b0e318e1d7eb5f6331fc,9152ee6a45b98141c5fa5486e8c6c9a3,omg im sick of this thing....does any1 actually talk???,14:53
+4c548da19374b0e318e1d7eb5f6331fc,9c0885be6b2270ccc0904ca63872919d,Hello! Im 24 m Norway. What about you?,14:54
+4c548da19374b0e318e1d7eb5f6331fc,9152ee6a45b98141c5fa5486e8c6c9a3,16 f ireland,14:54
+dbab5b395eda79b3c8791a091b22267d,9186e62517ace66140e7a9e8687cce49,hey,15:00
+dbab5b395eda79b3c8791a091b22267d,45d4b5d00d340e0f05837c83c1a65f8a,hi,15:00
+dbab5b395eda79b3c8791a091b22267d,45d4b5d00d340e0f05837c83c1a65f8a,male here,15:00
+dbab5b395eda79b3c8791a091b22267d,45d4b5d00d340e0f05837c83c1a65f8a,hi,15:00
+dbab5b395eda79b3c8791a091b22267d,45d4b5d00d340e0f05837c83c1a65f8a,hey,15:01
+9f8d1a7c70b4784070070b886baeba52,f3c7a6d7a131c6601c951866029daa35,hey,05:41
+9f8d1a7c70b4784070070b886baeba52,d2a9f24742ced69a5f9d31d62882560e,hi,05:41
+9f8d1a7c70b4784070070b886baeba52,d2a9f24742ced69a5f9d31d62882560e,asl,05:41
+9f8d1a7c70b4784070070b886baeba52,d2a9f24742ced69a5f9d31d62882560e,?,05:41
+9f8d1a7c70b4784070070b886baeba52,f3c7a6d7a131c6601c951866029daa35,whats up?,05:41
+3109c17c88fe23fdf6e4cb4a2ad6def7,e5cf84ed9ede55d365d58a0ca651edd3,no ideas?,13:19
+3109c17c88fe23fdf6e4cb4a2ad6def7,e5cf84ed9ede55d365d58a0ca651edd3,man this sucks :(,13:19
+3109c17c88fe23fdf6e4cb4a2ad6def7,e5cf84ed9ede55d365d58a0ca651edd3,hmm,13:20
+3109c17c88fe23fdf6e4cb4a2ad6def7,38c887b6e948fe8e83a6926d2d935343,"<a href=""http://cgi.ebay.com.au/Cisco-ASA-5510-Adaptive-Security-Appliance_W0QQitemZ160006939689QQihZ006QQcategoryZ70813QQrdZ1QQcmdZViewItem"">http://cgi.ebay.com.au/Cisco-ASA-5510-Adaptive-Security-Appliance_W0QQitemZ160006939689QQihZ006QQcategoryZ70813QQrdZ1QQcmdZViewItem</a>",13:28
+3109c17c88fe23fdf6e4cb4a2ad6def7,38c887b6e948fe8e83a6926d2d935343,haha,13:28
+3109c17c88fe23fdf6e4cb4a2ad6def7,38c887b6e948fe8e83a6926d2d935343,"We are selling this device because we are unable to maintain or configure it correctly; in short it is too complex for our needs. It was purchased at end of financial year in June 2005 and has not been used since. Item will be supplied with Factory Configurations. It is in as &quot;new condition&quot;, tested and working.",13:28
+3109c17c88fe23fdf6e4cb4a2ad6def7,e5cf84ed9ede55d365d58a0ca651edd3,cryp-: you good with Cisco PIX firewalls?,13:50
+8c3f1c715570a7af14a69cce09a045d6,8a4019350ab122b3bfda5b838bbffc4c,"if I want the value of $_GET['step'] but I want to increase it by one and keep the original value, can I use a reference?",12:40
+8c3f1c715570a7af14a69cce09a045d6,8a4019350ab122b3bfda5b838bbffc4c,like &amp;$_GET['step']++,12:40
+8c3f1c715570a7af14a69cce09a045d6,8a4019350ab122b3bfda5b838bbffc4c,or should I just do $_GET['step'] + 1,12:40
+8c3f1c715570a7af14a69cce09a045d6,8a4019350ab122b3bfda5b838bbffc4c,"I want to keep the original value intact, just use the &quot;next&quot; number available (+1)",12:41
+8c3f1c715570a7af14a69cce09a045d6,82653c61d3ae4fa4bb624e7b24bfdb1a,tek_: the latter,12:41
+8c3f1c715570a7af14a69cce09a045d6,82653c61d3ae4fa4bb624e7b24bfdb1a,the former would most likely result in an error,12:41
+8c3f1c715570a7af14a69cce09a045d6,8a4019350ab122b3bfda5b838bbffc4c,That's what I was thinking,12:41
+8c3f1c715570a7af14a69cce09a045d6,8a4019350ab122b3bfda5b838bbffc4c,What is the point in a reference? or &amp; ?,12:42
+8c3f1c715570a7af14a69cce09a045d6,82653c61d3ae4fa4bb624e7b24bfdb1a,?,12:42
+8c3f1c715570a7af14a69cce09a045d6,8a4019350ab122b3bfda5b838bbffc4c,&amp;$var,12:42
+8c3f1c715570a7af14a69cce09a045d6,82653c61d3ae4fa4bb624e7b24bfdb1a,What about it?,12:42
+8c3f1c715570a7af14a69cce09a045d6,82653c61d3ae4fa4bb624e7b24bfdb1a,Its purpose?,12:42
+8c3f1c715570a7af14a69cce09a045d6,8a4019350ab122b3bfda5b838bbffc4c,"$var_one = 'asdf', $var_two = &amp;$var_one?",12:42
+8c3f1c715570a7af14a69cce09a045d6,8a4019350ab122b3bfda5b838bbffc4c,yes,12:42
+8c3f1c715570a7af14a69cce09a045d6,82653c61d3ae4fa4bb624e7b24bfdb1a,It allows you to create an alias to a particular value.,12:43
+8c3f1c715570a7af14a69cce09a045d6,8a4019350ab122b3bfda5b838bbffc4c,Do you ever use it?,12:43
+8c3f1c715570a7af14a69cce09a045d6,82653c61d3ae4fa4bb624e7b24bfdb1a,Only in the context of functions,12:43
+8c3f1c715570a7af14a69cce09a045d6,44d7d68ff19accef69c795bbf76d4654,in &quot;echo '&lt;span class=&quot;gensmall&quot;&gt;a'.$COUNT.' views.&lt;/span&gt;';&quot; how does $COUNT get echoed before the span?,12:44
+8c3f1c715570a7af14a69cce09a045d6,82653c61d3ae4fa4bb624e7b24bfdb1a,"if I have a function that needs to return multiple values, I'll pass in references.",12:44
+8c3f1c715570a7af14a69cce09a045d6,44d7d68ff19accef69c795bbf76d4654,"sometimes, sometimes its fine",12:44
+8c3f1c715570a7af14a69cce09a045d6,82653c61d3ae4fa4bb624e7b24bfdb1a,blinks: it shouldn't,12:44
+8c3f1c715570a7af14a69cce09a045d6,986a962621f044ddb3f0517e2f112219,is there a single function for removing newlines at the end of a string? or is that Perl?,12:44
+8c3f1c715570a7af14a69cce09a045d6,82653c61d3ae4fa4bb624e7b24bfdb1a,_lee_: trim,12:44
+8c3f1c715570a7af14a69cce09a045d6,82653c61d3ae4fa4bb624e7b24bfdb1a,or one of its varians,12:44
+8c3f1c715570a7af14a69cce09a045d6,82653c61d3ae4fa4bb624e7b24bfdb1a,variants*,12:45
+8c3f1c715570a7af14a69cce09a045d6,986a962621f044ddb3f0517e2f112219,"yeah, knew about rtrim() .. but I was remembering chomp() from perl I think .. simply removed end of string newline",12:45
+8c3f1c715570a7af14a69cce09a045d6,44d7d68ff19accef69c795bbf76d4654,"it shouldn't yes, but it does, hence my question",12:45
+8c3f1c715570a7af14a69cce09a045d6,44d7d68ff19accef69c795bbf76d4654,"counts a number aswell, maybe this has something todo with issue?",12:46
+8c3f1c715570a7af14a69cce09a045d6,82653c61d3ae4fa4bb624e7b24bfdb1a,It shan't.,12:46
+8c3f1c715570a7af14a69cce09a045d6,986a962621f044ddb3f0517e2f112219,apparently rtrim() with no parameters does same ..,12:48
+8c3f1c715570a7af14a69cce09a045d6,1368c7a33bd3d10a12a36135a8c87459,what's the php function to return the pointer to the beginning of a file? or move the file pointer back?,12:53
+8c3f1c715570a7af14a69cce09a045d6,986a962621f044ddb3f0517e2f112219,during an open or after?,12:53
+8c3f1c715570a7af14a69cce09a045d6,1368c7a33bd3d10a12a36135a8c87459,while open,12:54
+8c3f1c715570a7af14a69cce09a045d6,986a962621f044ddb3f0517e2f112219,"<a href=""http://us3.php.net/manual/en/function.rewind.php"">http://us3.php.net/manual/en/function.rewind.php</a>",12:54
+8c3f1c715570a7af14a69cce09a045d6,1368c7a33bd3d10a12a36135a8c87459,thanks,12:54
+8c3f1c715570a7af14a69cce09a045d6,986a962621f044ddb3f0517e2f112219,np,12:54
+8c3f1c715570a7af14a69cce09a045d6,986a962621f044ddb3f0517e2f112219,"The file pointer must be valid, and must point to a file successfully opened by fopen().",12:55
+8c3f1c715570a7af14a69cce09a045d6,1368c7a33bd3d10a12a36135a8c87459,"if (!file_exists($file)) $fptr=fopen($file,&quot;x+&quot;); else (open nomally)",12:56
+8c3f1c715570a7af14a69cce09a045d6,986a962621f044ddb3f0517e2f112219,should do it,12:57
+e9f504cc0ac7b4c740a09457dd1e4794,e7bd28b9414a95b7a3a29ec09b943ba2,hi,05:05
+e9f504cc0ac7b4c740a09457dd1e4794,17d7a0a9dc0b9336100a1eeae4c48a34,hi,05:05
+e9f504cc0ac7b4c740a09457dd1e4794,e7bd28b9414a95b7a3a29ec09b943ba2,m/f?,05:05
+e9f504cc0ac7b4c740a09457dd1e4794,e7bd28b9414a95b7a3a29ec09b943ba2,go away,05:06
+2b5f23b639e60137fdb966261a4e4b78,a11aabeeceeae6b8cb5d12ea06b56554,jgraham: because karlcow mentioned it!,20:55
+b18e0b0078ef203f01f1abb6e8ee0866,ae223ef9262a39ff4c1152f6fff67837,did we just talk about suicide?,05:49
+b18e0b0078ef203f01f1abb6e8ee0866,ed8e7b0151c78d42add7fa332a425dd6,hey,05:49
+b18e0b0078ef203f01f1abb6e8ee0866,ed8e7b0151c78d42add7fa332a425dd6,no,05:49
+e0fabdc12cce220079d5bc02b0631fea,bdaa4b675589e3b8f93f1655fed3b314,hello,15:19
+e0fabdc12cce220079d5bc02b0631fea,5b00eadd062c538a2cabfd3c1afc13b0,hey,15:21
+e0fabdc12cce220079d5bc02b0631fea,bdaa4b675589e3b8f93f1655fed3b314,hey,15:21
+e0fabdc12cce220079d5bc02b0631fea,5b00eadd062c538a2cabfd3c1afc13b0,asl,15:21
+e0fabdc12cce220079d5bc02b0631fea,bdaa4b675589e3b8f93f1655fed3b314,where r u from in nj??,15:22
+e0fabdc12cce220079d5bc02b0631fea,5b00eadd062c538a2cabfd3c1afc13b0,732,15:22
+e0fabdc12cce220079d5bc02b0631fea,bdaa4b675589e3b8f93f1655fed3b314,same here,15:22
+e0fabdc12cce220079d5bc02b0631fea,bdaa4b675589e3b8f93f1655fed3b314,cnj monmouth co,15:22
+e0fabdc12cce220079d5bc02b0631fea,5b00eadd062c538a2cabfd3c1afc13b0,cool,15:23
+e0fabdc12cce220079d5bc02b0631fea,bdaa4b675589e3b8f93f1655fed3b314,so what brings u into this room,15:23
+e0fabdc12cce220079d5bc02b0631fea,5b00eadd062c538a2cabfd3c1afc13b0,i'm bored off my ass,15:24
+e0fabdc12cce220079d5bc02b0631fea,5b00eadd062c538a2cabfd3c1afc13b0,llol,15:24
+e0fabdc12cce220079d5bc02b0631fea,bdaa4b675589e3b8f93f1655fed3b314,dont u have work to do,15:24
+e0fabdc12cce220079d5bc02b0631fea,5b00eadd062c538a2cabfd3c1afc13b0,um,15:25
+e0fabdc12cce220079d5bc02b0631fea,5b00eadd062c538a2cabfd3c1afc13b0,no,15:25
+e0fabdc12cce220079d5bc02b0631fea,5b00eadd062c538a2cabfd3c1afc13b0,asl,15:25
+e0fabdc12cce220079d5bc02b0631fea,bdaa4b675589e3b8f93f1655fed3b314,im old 49 here old enough to be your daddy,15:26
+e0fabdc12cce220079d5bc02b0631fea,5b00eadd062c538a2cabfd3c1afc13b0,13/f/nj,15:26
+e0fabdc12cce220079d5bc02b0631fea,5b00eadd062c538a2cabfd3c1afc13b0,"um, my dad's older",15:26
+e0fabdc12cce220079d5bc02b0631fea,5b00eadd062c538a2cabfd3c1afc13b0,lol,15:26
+e0fabdc12cce220079d5bc02b0631fea,bdaa4b675589e3b8f93f1655fed3b314,ok,15:26
+e0fabdc12cce220079d5bc02b0631fea,bdaa4b675589e3b8f93f1655fed3b314,lol,15:26
+e0fabdc12cce220079d5bc02b0631fea,5b00eadd062c538a2cabfd3c1afc13b0,so what's up,15:32
+e0fabdc12cce220079d5bc02b0631fea,bdaa4b675589e3b8f93f1655fed3b314,not much,15:32
+e0fabdc12cce220079d5bc02b0631fea,5b00eadd062c538a2cabfd3c1afc13b0,sucks to be us,15:32
+e0fabdc12cce220079d5bc02b0631fea,bdaa4b675589e3b8f93f1655fed3b314,why is that,15:33
+e0fabdc12cce220079d5bc02b0631fea,5b00eadd062c538a2cabfd3c1afc13b0,cos we're bored off our asses,15:33
+e0fabdc12cce220079d5bc02b0631fea,bdaa4b675589e3b8f93f1655fed3b314,that is true,15:33
+e0fabdc12cce220079d5bc02b0631fea,5b00eadd062c538a2cabfd3c1afc13b0,so anyway,15:35
+e0fabdc12cce220079d5bc02b0631fea,bdaa4b675589e3b8f93f1655fed3b314,yes how can i help u,15:35
+e0fabdc12cce220079d5bc02b0631fea,5b00eadd062c538a2cabfd3c1afc13b0,i dunno,15:35
+e0fabdc12cce220079d5bc02b0631fea,bdaa4b675589e3b8f93f1655fed3b314,u have any pic,15:35
+e0fabdc12cce220079d5bc02b0631fea,5b00eadd062c538a2cabfd3c1afc13b0,yeah,15:37
+e0fabdc12cce220079d5bc02b0631fea,5b00eadd062c538a2cabfd3c1afc13b0,in my profile,15:37
+e0fabdc12cce220079d5bc02b0631fea,bdaa4b675589e3b8f93f1655fed3b314,any others,15:38
+e0fabdc12cce220079d5bc02b0631fea,5b00eadd062c538a2cabfd3c1afc13b0,nope,15:39
+e0fabdc12cce220079d5bc02b0631fea,5b00eadd062c538a2cabfd3c1afc13b0,my camera broken,15:39
+e0fabdc12cce220079d5bc02b0631fea,bdaa4b675589e3b8f93f1655fed3b314,give me a call,15:39
+e0fabdc12cce220079d5bc02b0631fea,5b00eadd062c538a2cabfd3c1afc13b0,okay,15:39
+e0fabdc12cce220079d5bc02b0631fea,bdaa4b675589e3b8f93f1655fed3b314,8482180381,15:40
+e0fabdc12cce220079d5bc02b0631fea,5b00eadd062c538a2cabfd3c1afc13b0,let me get my calling card,15:41
+e0fabdc12cce220079d5bc02b0631fea,bdaa4b675589e3b8f93f1655fed3b314,ok,15:41
+e0fabdc12cce220079d5bc02b0631fea,5b00eadd062c538a2cabfd3c1afc13b0,"btw,i'm michelle",15:41
+e0fabdc12cce220079d5bc02b0631fea,bdaa4b675589e3b8f93f1655fed3b314,kevin,15:41
+e0fabdc12cce220079d5bc02b0631fea,bdaa4b675589e3b8f93f1655fed3b314,r u there,15:43
+e0fabdc12cce220079d5bc02b0631fea,bdaa4b675589e3b8f93f1655fed3b314,u have a good day,15:44
+e0fabdc12cce220079d5bc02b0631fea,5b00eadd062c538a2cabfd3c1afc13b0,i just found my card,15:45
+e0fabdc12cce220079d5bc02b0631fea,5b00eadd062c538a2cabfd3c1afc13b0,hold on. i'm getting the phone,15:46
+e0fabdc12cce220079d5bc02b0631fea,5b00eadd062c538a2cabfd3c1afc13b0,lol,15:46
+e0fabdc12cce220079d5bc02b0631fea,bdaa4b675589e3b8f93f1655fed3b314,ok,15:46
+e0fabdc12cce220079d5bc02b0631fea,5b00eadd062c538a2cabfd3c1afc13b0,i'm calling,15:49
+e0fabdc12cce220079d5bc02b0631fea,bdaa4b675589e3b8f93f1655fed3b314,lol,15:49
+e0fabdc12cce220079d5bc02b0631fea,5b00eadd062c538a2cabfd3c1afc13b0,omg u're cute,15:54
+e0fabdc12cce220079d5bc02b0631fea,bdaa4b675589e3b8f93f1655fed3b314,lol,15:54
+e0fabdc12cce220079d5bc02b0631fea,bdaa4b675589e3b8f93f1655fed3b314,so what town do u live in,15:55
+e0fabdc12cce220079d5bc02b0631fea,5b00eadd062c538a2cabfd3c1afc13b0,i live on the shore,15:55
+e0fabdc12cce220079d5bc02b0631fea,5b00eadd062c538a2cabfd3c1afc13b0,u?,15:55
+e0fabdc12cce220079d5bc02b0631fea,bdaa4b675589e3b8f93f1655fed3b314,u not gona tell me,15:55
+e0fabdc12cce220079d5bc02b0631fea,5b00eadd062c538a2cabfd3c1afc13b0,i guess it depends on why?,15:55
+e0fabdc12cce220079d5bc02b0631fea,5b00eadd062c538a2cabfd3c1afc13b0,lol,15:55
+e0fabdc12cce220079d5bc02b0631fea,bdaa4b675589e3b8f93f1655fed3b314,just courios,15:56
+e0fabdc12cce220079d5bc02b0631fea,5b00eadd062c538a2cabfd3c1afc13b0,ur cam locked up,15:56
+e0fabdc12cce220079d5bc02b0631fea,5b00eadd062c538a2cabfd3c1afc13b0,lol,15:56
+e0fabdc12cce220079d5bc02b0631fea,bdaa4b675589e3b8f93f1655fed3b314,the daughter i never had,15:56
+e0fabdc12cce220079d5bc02b0631fea,5b00eadd062c538a2cabfd3c1afc13b0,where r u?,15:56
+e0fabdc12cce220079d5bc02b0631fea,bdaa4b675589e3b8f93f1655fed3b314,now,15:56
+e0fabdc12cce220079d5bc02b0631fea,bdaa4b675589e3b8f93f1655fed3b314,middletown,15:56
+e0fabdc12cce220079d5bc02b0631fea,bdaa4b675589e3b8f93f1655fed3b314,and u,15:56
+e0fabdc12cce220079d5bc02b0631fea,bdaa4b675589e3b8f93f1655fed3b314,nothing to say,15:57
+e0fabdc12cce220079d5bc02b0631fea,5b00eadd062c538a2cabfd3c1afc13b0,no i got hit by bots,15:58
+e0fabdc12cce220079d5bc02b0631fea,5b00eadd062c538a2cabfd3c1afc13b0,lol,15:58
+e0fabdc12cce220079d5bc02b0631fea,5b00eadd062c538a2cabfd3c1afc13b0,i hate those things,15:58
+e0fabdc12cce220079d5bc02b0631fea,5b00eadd062c538a2cabfd3c1afc13b0,all fake and shit,15:58
+e0fabdc12cce220079d5bc02b0631fea,bdaa4b675589e3b8f93f1655fed3b314,i added u ok,15:58
+e0fabdc12cce220079d5bc02b0631fea,5b00eadd062c538a2cabfd3c1afc13b0,i'm like thirty miles from u,15:58
+e0fabdc12cce220079d5bc02b0631fea,bdaa4b675589e3b8f93f1655fed3b314,cool,15:59
+e0fabdc12cce220079d5bc02b0631fea,bdaa4b675589e3b8f93f1655fed3b314,what r u doing in a 1/2 hr,15:59
+e0fabdc12cce220079d5bc02b0631fea,5b00eadd062c538a2cabfd3c1afc13b0,nothing,15:59
+e0fabdc12cce220079d5bc02b0631fea,bdaa4b675589e3b8f93f1655fed3b314,soda buger,15:59
+e0fabdc12cce220079d5bc02b0631fea,5b00eadd062c538a2cabfd3c1afc13b0,huh?,15:59
+e0fabdc12cce220079d5bc02b0631fea,bdaa4b675589e3b8f93f1655fed3b314,care to meet,16:00
+e0fabdc12cce220079d5bc02b0631fea,5b00eadd062c538a2cabfd3c1afc13b0,sure,16:00
+e0fabdc12cce220079d5bc02b0631fea,5b00eadd062c538a2cabfd3c1afc13b0,could be cool,16:00
+e0fabdc12cce220079d5bc02b0631fea,5b00eadd062c538a2cabfd3c1afc13b0,what do u want to do,16:00
+e0fabdc12cce220079d5bc02b0631fea,5b00eadd062c538a2cabfd3c1afc13b0,?,16:00
+e0fabdc12cce220079d5bc02b0631fea,bdaa4b675589e3b8f93f1655fed3b314,yes i think so,16:00
+e0fabdc12cce220079d5bc02b0631fea,bdaa4b675589e3b8f93f1655fed3b314,u tell me i have no idea where u r but a 1/2 hr away,16:00
+e0fabdc12cce220079d5bc02b0631fea,5b00eadd062c538a2cabfd3c1afc13b0,well i'm not from here,16:01
+e0fabdc12cce220079d5bc02b0631fea,5b00eadd062c538a2cabfd3c1afc13b0,so i don't know what's to do,16:01
+e0fabdc12cce220079d5bc02b0631fea,bdaa4b675589e3b8f93f1655fed3b314,call me back,16:02
+e0fabdc12cce220079d5bc02b0631fea,5b00eadd062c538a2cabfd3c1afc13b0,hold on a sec,16:02
+e0fabdc12cce220079d5bc02b0631fea,5b00eadd062c538a2cabfd3c1afc13b0,um,16:03
+e0fabdc12cce220079d5bc02b0631fea,5b00eadd062c538a2cabfd3c1afc13b0,i called my dad to have him add minutes to my card,16:03
+e0fabdc12cce220079d5bc02b0631fea,5b00eadd062c538a2cabfd3c1afc13b0,it's the one he gave me so i could call him and my friends back home,16:03
+e0fabdc12cce220079d5bc02b0631fea,5b00eadd062c538a2cabfd3c1afc13b0,that way my mom won't bitch,16:03
+e0fabdc12cce220079d5bc02b0631fea,5b00eadd062c538a2cabfd3c1afc13b0,lol,16:03
+e0fabdc12cce220079d5bc02b0631fea,5b00eadd062c538a2cabfd3c1afc13b0,so it will take a minute,16:03
+e0fabdc12cce220079d5bc02b0631fea,bdaa4b675589e3b8f93f1655fed3b314,ok,16:04
+e0fabdc12cce220079d5bc02b0631fea,5b00eadd062c538a2cabfd3c1afc13b0,so what do u want to do?,16:04
+e0fabdc12cce220079d5bc02b0631fea,5b00eadd062c538a2cabfd3c1afc13b0,"ur cam is sorta locking up my computer, can i close it?",16:04
+e0fabdc12cce220079d5bc02b0631fea,bdaa4b675589e3b8f93f1655fed3b314,sure,16:05
+e0fabdc12cce220079d5bc02b0631fea,5b00eadd062c538a2cabfd3c1afc13b0,sorry didnt' mean to buzz u,16:05
+e0fabdc12cce220079d5bc02b0631fea,5b00eadd062c538a2cabfd3c1afc13b0,i hate that,16:05
+e0fabdc12cce220079d5bc02b0631fea,5b00eadd062c538a2cabfd3c1afc13b0,lol,16:05
+e0fabdc12cce220079d5bc02b0631fea,bdaa4b675589e3b8f93f1655fed3b314,np,16:05
+e0fabdc12cce220079d5bc02b0631fea,bdaa4b675589e3b8f93f1655fed3b314,so do u know what town,16:06
+e0fabdc12cce220079d5bc02b0631fea,5b00eadd062c538a2cabfd3c1afc13b0,yeah,16:06
+e0fabdc12cce220079d5bc02b0631fea,5b00eadd062c538a2cabfd3c1afc13b0,lol,16:06
+e0fabdc12cce220079d5bc02b0631fea,bdaa4b675589e3b8f93f1655fed3b314,u gona tell me,16:06
+e0fabdc12cce220079d5bc02b0631fea,5b00eadd062c538a2cabfd3c1afc13b0,i do know where i live,16:06
+e0fabdc12cce220079d5bc02b0631fea,5b00eadd062c538a2cabfd3c1afc13b0,yeah,16:06
+e0fabdc12cce220079d5bc02b0631fea,5b00eadd062c538a2cabfd3c1afc13b0,r u gonna tell me what we're gonna do?,16:06
+e0fabdc12cce220079d5bc02b0631fea,bdaa4b675589e3b8f93f1655fed3b314,lol,16:06
+e0fabdc12cce220079d5bc02b0631fea,bdaa4b675589e3b8f93f1655fed3b314,nothing nothing at all talk came into my mind,16:07
+e0fabdc12cce220079d5bc02b0631fea,5b00eadd062c538a2cabfd3c1afc13b0,won't that be boring?,16:07
+e0fabdc12cce220079d5bc02b0631fea,5b00eadd062c538a2cabfd3c1afc13b0,like we can do that on here,16:07
+e0fabdc12cce220079d5bc02b0631fea,5b00eadd062c538a2cabfd3c1afc13b0,lol,16:07
+e0fabdc12cce220079d5bc02b0631fea,bdaa4b675589e3b8f93f1655fed3b314,u have something else on your mind,16:08
+e0fabdc12cce220079d5bc02b0631fea,bdaa4b675589e3b8f93f1655fed3b314,call,16:08
+e0fabdc12cce220079d5bc02b0631fea,bdaa4b675589e3b8f93f1655fed3b314,so what do u think,16:08
+e0fabdc12cce220079d5bc02b0631fea,5b00eadd062c538a2cabfd3c1afc13b0,well i just don't want to be bored. lol,16:08
+e0fabdc12cce220079d5bc02b0631fea,bdaa4b675589e3b8f93f1655fed3b314,u wont be bored>:),16:09
+e0fabdc12cce220079d5bc02b0631fea,5b00eadd062c538a2cabfd3c1afc13b0,how do u know?,16:09
+e0fabdc12cce220079d5bc02b0631fea,5b00eadd062c538a2cabfd3c1afc13b0,i mean u won't even say what we're going to do,16:09
+e0fabdc12cce220079d5bc02b0631fea,5b00eadd062c538a2cabfd3c1afc13b0,lol,16:09
+e0fabdc12cce220079d5bc02b0631fea,bdaa4b675589e3b8f93f1655fed3b314,trust me,16:09
+e0fabdc12cce220079d5bc02b0631fea,bdaa4b675589e3b8f93f1655fed3b314,ya buy u a soda 4 starts,16:09
+e0fabdc12cce220079d5bc02b0631fea,bdaa4b675589e3b8f93f1655fed3b314,call me,16:09
+e0fabdc12cce220079d5bc02b0631fea,bdaa4b675589e3b8f93f1655fed3b314,and ill tell u,16:10
+e0fabdc12cce220079d5bc02b0631fea,bdaa4b675589e3b8f93f1655fed3b314,and where is it u live,16:10
+e0fabdc12cce220079d5bc02b0631fea,5b00eadd062c538a2cabfd3c1afc13b0,i'm still waiting for my dad to call me back,16:10
+e0fabdc12cce220079d5bc02b0631fea,5b00eadd062c538a2cabfd3c1afc13b0,letting me know he added minutes,16:10
+e0fabdc12cce220079d5bc02b0631fea,bdaa4b675589e3b8f93f1655fed3b314,do u want me to call u,16:10
+e0fabdc12cce220079d5bc02b0631fea,5b00eadd062c538a2cabfd3c1afc13b0,no,16:10
+e0fabdc12cce220079d5bc02b0631fea,bdaa4b675589e3b8f93f1655fed3b314,ok,16:10
+e0fabdc12cce220079d5bc02b0631fea,5b00eadd062c538a2cabfd3c1afc13b0,cos then u're number will show up on my caller id,16:10
+e0fabdc12cce220079d5bc02b0631fea,5b00eadd062c538a2cabfd3c1afc13b0,and that' sin my mom's room,16:10
+e0fabdc12cce220079d5bc02b0631fea,5b00eadd062c538a2cabfd3c1afc13b0,and that could be ugly,16:10
+e0fabdc12cce220079d5bc02b0631fea,5b00eadd062c538a2cabfd3c1afc13b0,lol,16:10
+e0fabdc12cce220079d5bc02b0631fea,bdaa4b675589e3b8f93f1655fed3b314,ok,16:11
+e0fabdc12cce220079d5bc02b0631fea,bdaa4b675589e3b8f93f1655fed3b314,np,16:11
+e0fabdc12cce220079d5bc02b0631fea,5b00eadd062c538a2cabfd3c1afc13b0,i mean i don't think i want to tell her i was hanging out with hot guys while she was gone,16:11
+e0fabdc12cce220079d5bc02b0631fea,5b00eadd062c538a2cabfd3c1afc13b0,she might never ever leave again,16:11
+e0fabdc12cce220079d5bc02b0631fea,bdaa4b675589e3b8f93f1655fed3b314,so where is it that u live,16:11
+e0fabdc12cce220079d5bc02b0631fea,5b00eadd062c538a2cabfd3c1afc13b0,r u gonna stay for a while?,16:12
+e0fabdc12cce220079d5bc02b0631fea,bdaa4b675589e3b8f93f1655fed3b314,if u like,16:12
+e0fabdc12cce220079d5bc02b0631fea,5b00eadd062c538a2cabfd3c1afc13b0,that could be cool,16:13
+e0fabdc12cce220079d5bc02b0631fea,5b00eadd062c538a2cabfd3c1afc13b0,did u just do that?,16:13
+e0fabdc12cce220079d5bc02b0631fea,bdaa4b675589e3b8f93f1655fed3b314,what happen,16:13
+e0fabdc12cce220079d5bc02b0631fea,5b00eadd062c538a2cabfd3c1afc13b0,or did i do it on accident,16:13
+e0fabdc12cce220079d5bc02b0631fea,bdaa4b675589e3b8f93f1655fed3b314,yes,16:13
+e0fabdc12cce220079d5bc02b0631fea,5b00eadd062c538a2cabfd3c1afc13b0,oh whoops,16:13
+e0fabdc12cce220079d5bc02b0631fea,5b00eadd062c538a2cabfd3c1afc13b0,lol,16:13
+e0fabdc12cce220079d5bc02b0631fea,5b00eadd062c538a2cabfd3c1afc13b0,do u know where brick is?,16:13
+e0fabdc12cce220079d5bc02b0631fea,bdaa4b675589e3b8f93f1655fed3b314,yes,16:13
+e0fabdc12cce220079d5bc02b0631fea,bdaa4b675589e3b8f93f1655fed3b314,u decline,16:14
+e0fabdc12cce220079d5bc02b0631fea,5b00eadd062c538a2cabfd3c1afc13b0,dunno,16:14
+e0fabdc12cce220079d5bc02b0631fea,5b00eadd062c538a2cabfd3c1afc13b0,is it the same as this?,16:14
+e0fabdc12cce220079d5bc02b0631fea,bdaa4b675589e3b8f93f1655fed3b314,yes,16:14
+e0fabdc12cce220079d5bc02b0631fea,5b00eadd062c538a2cabfd3c1afc13b0,when do u have to go back home?,16:14
+e0fabdc12cce220079d5bc02b0631fea,bdaa4b675589e3b8f93f1655fed3b314,by 7,16:15
+e0fabdc12cce220079d5bc02b0631fea,5b00eadd062c538a2cabfd3c1afc13b0,really?,16:15
+e0fabdc12cce220079d5bc02b0631fea,5b00eadd062c538a2cabfd3c1afc13b0,why?,16:15
+e0fabdc12cce220079d5bc02b0631fea,bdaa4b675589e3b8f93f1655fed3b314,have to pick up by wife,16:15
+e0fabdc12cce220079d5bc02b0631fea,5b00eadd062c538a2cabfd3c1afc13b0,thats not really even time to have dinner. :9,16:15
+e0fabdc12cce220079d5bc02b0631fea,5b00eadd062c538a2cabfd3c1afc13b0,:(,16:15
+e0fabdc12cce220079d5bc02b0631fea,bdaa4b675589e3b8f93f1655fed3b314,we can meet 4 the sake of meeting,16:15
+e0fabdc12cce220079d5bc02b0631fea,5b00eadd062c538a2cabfd3c1afc13b0,i guess we could just hang out here,16:15
+e0fabdc12cce220079d5bc02b0631fea,bdaa4b675589e3b8f93f1655fed3b314,and who knows,16:15
+e0fabdc12cce220079d5bc02b0631fea,5b00eadd062c538a2cabfd3c1afc13b0,who knows what?,16:16
+e0fabdc12cce220079d5bc02b0631fea,bdaa4b675589e3b8f93f1655fed3b314,we can do it again if it clicks,16:16
+e0fabdc12cce220079d5bc02b0631fea,bdaa4b675589e3b8f93f1655fed3b314,call me,16:16
+e0fabdc12cce220079d5bc02b0631fea,5b00eadd062c538a2cabfd3c1afc13b0,do what?,16:16
+e0fabdc12cce220079d5bc02b0631fea,bdaa4b675589e3b8f93f1655fed3b314,call me,16:16
+e0fabdc12cce220079d5bc02b0631fea,bdaa4b675589e3b8f93f1655fed3b314,meet again,16:16
+e0fabdc12cce220079d5bc02b0631fea,bdaa4b675589e3b8f93f1655fed3b314,4 a longer time,16:17
+e0fabdc12cce220079d5bc02b0631fea,bdaa4b675589e3b8f93f1655fed3b314,and 4 who knows,16:17
+e0fabdc12cce220079d5bc02b0631fea,5b00eadd062c538a2cabfd3c1afc13b0,well i'd sorta like to know,16:17
+e0fabdc12cce220079d5bc02b0631fea,5b00eadd062c538a2cabfd3c1afc13b0,lol,16:17
+e0fabdc12cce220079d5bc02b0631fea,5b00eadd062c538a2cabfd3c1afc13b0,so i knwo what to wear,16:17
+e0fabdc12cce220079d5bc02b0631fea,5b00eadd062c538a2cabfd3c1afc13b0,lol,16:17
+e0fabdc12cce220079d5bc02b0631fea,bdaa4b675589e3b8f93f1655fed3b314,mmmmmmmmmmm>:),16:17
+e0fabdc12cce220079d5bc02b0631fea,5b00eadd062c538a2cabfd3c1afc13b0,i think u're just messing with me,16:17
+e0fabdc12cce220079d5bc02b0631fea,bdaa4b675589e3b8f93f1655fed3b314,skirt,16:17
+e0fabdc12cce220079d5bc02b0631fea,bdaa4b675589e3b8f93f1655fed3b314,no no,16:18
+e0fabdc12cce220079d5bc02b0631fea,5b00eadd062c538a2cabfd3c1afc13b0,then what do u want to do?,16:18
+e0fabdc12cce220079d5bc02b0631fea,bdaa4b675589e3b8f93f1655fed3b314,play with u,16:18
+e0fabdc12cce220079d5bc02b0631fea,bdaa4b675589e3b8f93f1655fed3b314,hold u kiss u,16:18
+e0fabdc12cce220079d5bc02b0631fea,bdaa4b675589e3b8f93f1655fed3b314,feel u,16:18
+e0fabdc12cce220079d5bc02b0631fea,5b00eadd062c538a2cabfd3c1afc13b0,kiss me where?,16:18
+e0fabdc12cce220079d5bc02b0631fea,bdaa4b675589e3b8f93f1655fed3b314,all over,16:18
+e0fabdc12cce220079d5bc02b0631fea,bdaa4b675589e3b8f93f1655fed3b314,call me,16:19
+e0fabdc12cce220079d5bc02b0631fea,bdaa4b675589e3b8f93f1655fed3b314,lets meet,16:19
+e0fabdc12cce220079d5bc02b0631fea,bdaa4b675589e3b8f93f1655fed3b314,times a wasting,16:19
+e0fabdc12cce220079d5bc02b0631fea,5b00eadd062c538a2cabfd3c1afc13b0,i like the idea of the kisses,16:19
+e0fabdc12cce220079d5bc02b0631fea,5b00eadd062c538a2cabfd3c1afc13b0,:),16:19
+e0fabdc12cce220079d5bc02b0631fea,bdaa4b675589e3b8f93f1655fed3b314,well,16:19
+e0fabdc12cce220079d5bc02b0631fea,bdaa4b675589e3b8f93f1655fed3b314,meet me,16:19
+e0fabdc12cce220079d5bc02b0631fea,bdaa4b675589e3b8f93f1655fed3b314,:-?,16:20
+e0fabdc12cce220079d5bc02b0631fea,bdaa4b675589e3b8f93f1655fed3b314,u there,16:21
+e0fabdc12cce220079d5bc02b0631fea,5b00eadd062c538a2cabfd3c1afc13b0,calling,16:22
+e0fabdc12cce220079d5bc02b0631fea,bdaa4b675589e3b8f93f1655fed3b314,ok,16:22
+e0fabdc12cce220079d5bc02b0631fea,bdaa4b675589e3b8f93f1655fed3b314,what happen,16:25
+e0fabdc12cce220079d5bc02b0631fea,5b00eadd062c538a2cabfd3c1afc13b0,i dunno i'll call back,16:25
+e0fabdc12cce220079d5bc02b0631fea,bdaa4b675589e3b8f93f1655fed3b314,ok,16:25
+e0fabdc12cce220079d5bc02b0631fea,5b00eadd062c538a2cabfd3c1afc13b0,can we meet on the beach?,16:30
+e0fabdc12cce220079d5bc02b0631fea,5b00eadd062c538a2cabfd3c1afc13b0,i mean the corner makes me feel sorta weird,16:30
+e0fabdc12cce220079d5bc02b0631fea,5b00eadd062c538a2cabfd3c1afc13b0,my house is right across the street from teh beach,16:30
+e0fabdc12cce220079d5bc02b0631fea,bdaa4b675589e3b8f93f1655fed3b314,i need and address,16:31
+e0fabdc12cce220079d5bc02b0631fea,5b00eadd062c538a2cabfd3c1afc13b0,well duh,16:31
