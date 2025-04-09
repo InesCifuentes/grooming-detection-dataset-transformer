@@ -11,15 +11,6 @@ grooming-detection-dataset-transformer/
 │   └── pj.py               ← contiene el script de los .txt
 │   └── convert_all.py      ← ejecuta todo desde un solo punto
 ├── data/
-│   ├── raw/
-│   │   ├── Pan12/
-│   │   │   ├── train/
-│   │   │   │   └── pan12-sexual-predator-identification-train.xml
-│   │   │   └── test/
-│   │   │       └── pan12-sexual-predator-identification-test.xml
-│   │   └── PJ/
-│   │       └── conversaciones/
-│   │           └── [archivos .txt]
 │   └── processed/
 │       ├── pan12_train_dataset.csv
 │       ├── pan12_test_dataset.csv
@@ -33,7 +24,6 @@ grooming-detection-dataset-transformer/
 - **scripts/pan12.py**: Contiene los scripts que procesan los archivos XML para los datasets de `train` y `test`.
 - **scripts/pj.py**: Contiene el script para procesar los archivos `.txt` del dataset PJ.
 - **scripts/convert_all.py**: Script principal que ejecuta todos los procesos de conversión de datos.
-- **data/raw**: Carpeta que contiene los datasets crudos (originales) en formato XML y `.txt`.
 - **data/processed**: Carpeta que contiene los datasets procesados en formato CSV.
 - **requirements.txt**: Lista de dependencias necesarias para ejecutar el proyecto.
 
