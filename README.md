@@ -13,8 +13,3 @@ grooming-detection-dataset-transformer/
 ├── README.md
 └── requirements.txt        ← contiene las dependencias necesarias para ejecutar el proyecto
 ```
-
-## Uso
-
-```bash
-python scripts/convert_all.py
