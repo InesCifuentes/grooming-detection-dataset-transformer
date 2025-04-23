@@ -13,3 +13,9 @@ grooming-detection-dataset-transformer/
 ├── README.md
 └── requirements.txt        ← contiene las dependencias necesarias para ejecutar el proyecto
 ```
+## Archivos Fuente
+
+Los datasets necesarios para ejecutar este proyecto no están incluidos en el repositorio por motivos de tamaño/licencia. Puedes descargarlos manualmente desde las siguientes fuentes:
+
+- [Dataset de PAN12](https://zenodo.org/records/3713280)
+- [Dataset de Perverted Justice(PJ)](https://github.com/helenkoutli/PervertedJusticeDataset)
