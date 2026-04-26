@@ -1,5 +1,4 @@
-# Grooming Detection Dataset Transformer
-
+# Grooming Detection Dataset Cleaner
 Este repositorio contiene scripts en Python para transformar datasets públicos sobre grooming online en archivos `.csv` limpios y listos para análisis.
 
 ## Estructura del Proyecto
